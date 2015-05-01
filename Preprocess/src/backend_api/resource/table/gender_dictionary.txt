@@ -1,0 +1,10 @@
+male: men,mens,men's,man,mans,mens',mans',guys',guy's,guys,man's,male,males,male's,males'
+female: women,womens,women's,woman,womans,womens',womans',ladies',ladies,lady's,woman's,female,females,females',female's
+female: maternity,maternities,maternity's,maternities'
+male: boy,boys,boy's,boys',little boy,little boy's
+female: girl,girls,girl's,girls',little girl,little girl's
+male: baby boy,baby boys,baby boy's,baby boys',new born boy,new born boys,new born boy's,new born boys',newborn boy,newborn boys,newborn boy's,newborn boys'
+female: baby girl,baby girls,baby girl's,baby girls',new born girl,new born girls,new born girl's,new born girls',newborn girl,newborn girls,newborn girl's,newborn girls'
+male: toddler boy,toddler boys,toddler boy's,toddler boys',toddler boys
+female: toddler girl,toddler girl,toddler girl's,toddler girls',toddler girls
+#unisex,uni-sex,boy's and girl's,boys and girls,men's and women's,mens and womens

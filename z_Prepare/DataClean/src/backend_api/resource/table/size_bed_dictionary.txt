@@ -1,0 +1,6 @@
+twin,single,twin size,size twin,single size,size single
+twin xl,twin extra long,extra long twin,extra twin long
+double,full,double size,size double,full size,size full
+queen,queen size,size queen
+king,king size,size king,eastern king,eastern king size,size eastern king
+california king,cal king,california king size,size california king,cal king size,size cal king,western king,western king size,size western king

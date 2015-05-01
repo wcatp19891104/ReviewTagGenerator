@@ -1,0 +1,12 @@
+JJ
+JJR
+JJS
+RB
+RBR
+RBS
+#CD
+#VBD
+VBN
+#VB
+#VBP
+#VBZ

@@ -1,0 +1,35 @@
+{1}
+absorbent	highly absorbent
+comfortable	comforting
+convenient	convenient use
+easily cleaned	easy clean up	easy to clean	easy to wash
+grows with baby	grows with child
+moisturizes well	moisturizing
+easy to assemble	easily assembled	easy assembly	easy to assemble	easy to install	easy to put together	easy to set up
+easy instructions	simple instructions
+good value	good price
+effective	efficient
+good audio	good sound
+holds attention	holds baby's attention	holds kids attention
+great color	great colors
+fun to play	fun to play with
+{0.8}
+good color variety	good colors
+comfortable fit	comfortable	comforting
+good volume	good capacity
+washes easily	washes well	washable
+adjustable	adjustable fit	adjustable settings
+easy to adjust	easy to adjust/convert
+glides smoothly	goes on smoothly
+transportable	travels well
+reliable	reliable performance
+good size	good size and fit
+{0.5}
+realistic	realistic detailed	realistic looking
+quality	quality construction
+fits anywhere	fits well
+easy to control	easy to handle	easy to operate
+reliable	reliable performance
+{0.2}
+dress easily	dress quickly
+fun for kids	fun to play	fun to play with	hours of fun	lasting fun	lots of fun

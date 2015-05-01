@@ -1,0 +1,17 @@
+package ReviewTagGeneration;
+
+message Tag {
+	required string content = 1;
+	required int32 count = 2;
+	required string type = 3;
+	optional string title = 4;
+	message JJ {
+		required string name = 1;
+		required int32 count = 2;
+	}
+	repeated JJ jj_list = 5;
+}
+
+message AllTag {
+	repeated Tag all_tags = 1;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<title>English Semantic Analyzer</title>
+</head>
+<body>
+	<center>
+		<h3>English Semantic Analyzer</h3>
+	</center>
+	<form method="get" action="analysis">
+		<input type="text" name="text" value="{0}" size=40 /><br>
+		<button type="submit">Search</button>
+	</form>
+	<form enctype="multipart/form-data" method="post" action="analysis_batch">
+		Input Query File Name:
+		<input type="file" name="query_file" value="file" size="40"/><br>
+		<div>
+			<input type="submit">
+		</div>
+	</form>
+	<center>
+		<h3>Result</h3>
+	</center>
+	{1}
+</body>
+</html>

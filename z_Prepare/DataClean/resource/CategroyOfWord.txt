@@ -1,0 +1,8 @@
+quakity:durable	sturdy	high quality	quality construction	safe	Good quality	Long lasting	Strong construction	Can Withstand use	Stable	Sturdy construction	BPA Free	Seals Well	Well Made	Reliable
+fun: fun	cute	entertaining	lasting fun	fun to play	Lots of Fun	hours of fun	Colorful and Fun
+useable: easy to use	comfortable	easy to clean	portable	stands on its own	Kid Appropriate	Easy to learn	Convenient	Washes Easily	Easy use	Easily Stowed	Easy To play	easy to wash	Easy to Adjust	Good Size And Fit	Easy to Operate	Easy To Steer	Comforting	Keeps Well
+weight: lightweight	soft
+installation: easy to assemble	easy to set up	easy assembly	Well Constructed	Easy to install	Easy to Grip
+design stype: attractive design	realistic detailed	interactive	colorful	stylish	Graphics	Engaging	creative	Compact	Nice Pattern	Good Size and Fit	Playful design	Engaging Characters	Perfect Size	attractive	Great design	Cute theme	Great Cinematography	Roomy	Gentle	Good Size	Beautiful Craftsmanship
+price: good value	Great value	Affordable	High Production Value
+feature and function: educational	Challenging	Good Audio	Multiplayer	Weather Resistant	Effective	Original	Warm	Smooth Ride	Holds Kids Attention	Great Features	Holds Attention	Lots of Pockets and Features	Can Listen Over And Over	Great Sound

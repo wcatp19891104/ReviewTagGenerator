@@ -1,0 +1,14 @@
+1. PreProcess.py
+2. Model->Train_P_jj_tag.py->Train_P_Tag.py->Train_P_Type_Tag.py
+3. Model->predict.py
+4. Test->evaluation.py
+
+
+Sync Dictionary and files:
+Preprocess/resource/test_data.txt-->Test/resource/test_data.txt
+Preprocess/resource/train_data.txt-->Model/Train/resource/train_data.txt
+Preprocess/src/Review.py-->Model/Train/src/Review.py
+
+Preprocess/src/PostProcess/resource/ValidProTag.txt-->Model/Train/resource/validProTag.txt
+Preprocess/src/PostProcess/resource/ValidProTag.txt-->Model/dictionary/ValidProTag.txt
+

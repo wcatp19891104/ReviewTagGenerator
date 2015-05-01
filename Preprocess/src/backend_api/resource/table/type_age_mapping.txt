@@ -1,0 +1,7 @@
+0006 -> newborn, infant, preemie, baby
+0618 -> infant, baby, toddler
+1824 -> baby, toddler
+2436 -> toddler, age 2 and above, kid
+3648 -> toddler, age 3 and above, kid
+4860 -> toddler, age 4 and above, kid
+6000 -> toddler, age 5 and above, kid

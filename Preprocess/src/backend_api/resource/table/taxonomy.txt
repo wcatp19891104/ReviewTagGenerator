@@ -1,0 +1,41 @@
+#occassion
+baby shower:occassion
+babyshower:occassion
+holloween:occassion
+christmas:occassion
+xmas:occassion
+
+#house locations
+girl room:location
+boy room:location
+stair:location
+
+#age
+year old:age
+month:age
+
+#weight
+lb:weight
+kg:weight
+
+#material
+quilted:material
+velour:material
+organic:material
+fur:material
+embossed:material
+silk:material
+printed:material
+cotton:material
+fleece:material
+microfleece:material
+cable knit:material
+nylon:material
+flannel:material
+plush:material
+wood:material
+plastic:material
+suede:material
+twill:material
+knit:material
+chevron knit​:material

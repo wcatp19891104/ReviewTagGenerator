@@ -1,0 +1,59 @@
+[07/Apr/2015:15:30:47] ENGINE Listening for SIGHUP.
+[07/Apr/2015:15:30:47] ENGINE Listening for SIGTERM.
+[07/Apr/2015:15:30:47] ENGINE Listening for SIGUSR1.
+[07/Apr/2015:15:30:47] ENGINE Bus STARTING
+CherryPy Checker:
+The Application mounted at '' has an empty config.
+
+[07/Apr/2015:15:30:47] ENGINE Started monitor thread 'Autoreloader'.
+[07/Apr/2015:15:30:47] ENGINE Started monitor thread '_TimeoutMonitor'.
+[07/Apr/2015:15:30:47] ENGINE Serving on http://0.0.0.0:8082
+[07/Apr/2015:15:30:47] ENGINE Bus STARTED
+[07/Apr/2015:15:31:47] ENGINE Listening for SIGHUP.
+[07/Apr/2015:15:31:47] ENGINE Listening for SIGTERM.
+[07/Apr/2015:15:31:47] ENGINE Listening for SIGUSR1.
+[07/Apr/2015:15:31:47] ENGINE Bus STARTING
+CherryPy Checker:
+The Application mounted at '' has an empty config.
+
+[07/Apr/2015:15:31:47] ENGINE Started monitor thread 'Autoreloader'.
+[07/Apr/2015:15:31:47] ENGINE Started monitor thread '_TimeoutMonitor'.
+[07/Apr/2015:15:31:53] ENGINE Error in 'start' listener <bound method Server.start of <cherrypy._cpserver.Server object at 0x101d20d50>>
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/cherrypy/process/wspbus.py", line 205, in publish
+    output.append(listener(*args, **kwargs))
+  File "/Library/Python/2.7/site-packages/cherrypy/_cpserver.py", line 168, in start
+    ServerAdapter.start(self)
+  File "/Library/Python/2.7/site-packages/cherrypy/process/servers.py", line 170, in start
+    wait_for_free_port(*self.bind_addr)
+  File "/Library/Python/2.7/site-packages/cherrypy/process/servers.py", line 438, in wait_for_free_port
+    raise IOError("Port %r not free on %r" % (port, host))
+IOError: Port 8082 not free on '0.0.0.0'
+
+[07/Apr/2015:15:31:53] ENGINE Shutting down due to error in start listener:
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/cherrypy/process/wspbus.py", line 243, in start
+    self.publish('start')
+  File "/Library/Python/2.7/site-packages/cherrypy/process/wspbus.py", line 223, in publish
+    raise exc
+ChannelFailures: IOError("Port 8082 not free on '0.0.0.0'",)
+
+[07/Apr/2015:15:31:53] ENGINE Bus STOPPING
+[07/Apr/2015:15:31:53] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8082)) already shut down
+[07/Apr/2015:15:31:53] ENGINE Stopped thread 'Autoreloader'.
+[07/Apr/2015:15:31:53] ENGINE Stopped thread '_TimeoutMonitor'.
+[07/Apr/2015:15:31:53] ENGINE Bus STOPPED
+[07/Apr/2015:15:31:53] ENGINE Bus EXITING
+[07/Apr/2015:15:31:53] ENGINE Bus EXITED
+path added
+127.0.0.1 - - [07/Apr/2015:18:31:41] "GET /index?query=elmo%20toys HTTP/1.1" 200 357 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36"
+[08/Apr/2015:13:30:58] ENGINE Caught signal SIGHUP.
+[08/Apr/2015:13:30:58] ENGINE SIGHUP caught but not daemonized. Exiting.
+[08/Apr/2015:13:30:58] ENGINE Bus STOPPING
+[08/Apr/2015:13:30:58] ENGINE HTTP Server cherrypy._cpwsgi_server.CPWSGIServer(('0.0.0.0', 8082)) shut down
+[08/Apr/2015:13:30:58] ENGINE Stopped thread 'Autoreloader'.
+[08/Apr/2015:13:30:58] ENGINE Stopped thread '_TimeoutMonitor'.
+[08/Apr/2015:13:30:58] ENGINE Bus STOPPED
+[08/Apr/2015:13:30:58] ENGINE Bus EXITING
+[08/Apr/2015:13:30:58] ENGINE Bus EXITED
+[08/Apr/2015:13:30:58] ENGINE Waiting for child threads to terminate...

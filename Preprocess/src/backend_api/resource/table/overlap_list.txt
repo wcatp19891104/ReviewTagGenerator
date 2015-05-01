@@ -1,0 +1,30 @@
+bike	bike helmet
+backpack	backpack diaper bag
+doll	doll high chair|doll furniture|doll bed|doll carrier|doll clothe|doll crib
+halloween	halloween movie|halloween clothe|halloween dvd
+crib	crib changer|crib ruffle|crib|crib pad|crib rail cover|crib bedding|crib quilt|crib wedge|crib changer combo|crib canopy|crib liner|crib bundle|crib bed rail|crib changing table combo|crib rail|crib bumper|crib bumper pad|crib rail guard|crib blanket|crib comforter|crib mobile
+bumper	bumper pad
+table	table chair|table lamp
+milk	milk powder
+recliner	recliner chair
+clothe	clothe organizer|clothe winter|clothe hanger
+playard	playard crib
+coat	coat rack
+jewelry	jewelry box
+tablet	tablet pc
+uniform	uniform pant
+suit	suit jacket
+book	book journal
+curtain	curtain panel|curtain rod
+swing	swing door
+cloth	cloth diaper pail|cloth diaper
+craft	craft kit|craft kitchen
+diaper	diaper changing table|diaper genie refill|diaper bag|diaper champ|diaper pail|diaper cover|diaper warmer|diaper pin|diaper cake|diaper changing pad|diaper wipe warmer|diaper cream|diaper genie|diaper organizer|diaper caddy|diaper backpack|diaper doll|diaper newborn|diaper wipe|diaper bag backpack
+pool	pool dy pool
+furniture	furniture event|furniture chair
+short	short panty
+car	car bed|car mirror|car  bedding|car  bed
+bed	bed tent|bed bedding|bed rail|bed bundle|bed white
+bag	bag chair|bag backpack
+sofa	sofa chair
+stroller	stroller bundle

@@ -1,0 +1,10 @@
+glass	glass
+bottles	bottle
+wipes	wipe
+clothes	clothes
+onesies	onesies
+police	police
+canvas	canvas
+plus	plus
+booties	bootie
+pajamas	pajama

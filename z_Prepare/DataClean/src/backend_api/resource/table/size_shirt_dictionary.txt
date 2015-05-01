@@ -1,0 +1,29 @@
+xxs,extra extra small
+xs,extra small
+small,s
+medium,m,
+large,l
+xl,extra large
+2xl,2 xl,xxl,extra extra large,2x
+big and tall,big tall,big & tall
+3xl,3 xl,xxxl,3x
+newborn,0 month,0m,0 3 month,0 3 m,0 3m,0 6m,0 9m,0 12m,nb,0 3 newborn,newborn 0 3,0 3 nb,nb 0 3
+3 month,3m,0 3 month,0 6 month,3 6 month,3 9 month,3 12 month,0 3 newborn,newborn 0 3,0 3 nb,nb 0 3,3 6 newborn,newborn 3 6,3 6 nb,nb 3 6,0 6 newborn,newborn 0 6,0 6 nb,nb 0 6
+6 month,6m,0 6 month,3 6 month,3 9 month,6 12 month,6 9 month,0 9 month,0 12 month,3 12 month,3 6 newborn,newborn 3 6,3 6 nb,nb 3 6,0 6 newborn,newborn 0 6,0 6 nb,nb 0 6
+9 month,9m,3 9 month,6 12 month,6 9 month,9 12 month,3 12 month,0 9 month,0 12 month
+12 month,12m,9 12 month,6 12 month,12 18 month,12 24 month,3 12 month,0 12 month
+18 month,18m,12 18 month,12 24 month,18 24 month
+24 month,24m,2 toddler,2t,2 t,12 24 month,18 24 month,9 24 month,6 24 month
+2 toddler,24m,2 toddler,2t,2 t,12 24 month,18 24 month,9 24 month,6 24 month
+3 toddler,3t,3 t
+4 toddler,4t,4 t
+5 toddler,5t,5 t
+6 toddler,6t,6 t
+7 toddler,7t,7 t
+8 toddler,8t,8 t
+9 toddler,9t,9 t
+10 toddler,10t,10 t
+11 toddler,11t,11 t
+12 toddler,12t,12 t
+13 toddler,13t,13 t
+14 toddler,14t,14 t

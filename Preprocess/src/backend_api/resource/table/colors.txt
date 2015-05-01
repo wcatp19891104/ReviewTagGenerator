@@ -1,0 +1,395 @@
+Aloe Green
+Amethyst
+Apple Blue
+Apple Green
+Apple White
+Aqua
+Aquamarine
+Aster
+Azzurro
+Banana Blue
+Beige
+Berry Blue
+Birch
+Black
+Black and Ivory
+Black and Tan
+Black and White
+Blonde
+Blue
+Blue and Black
+Blue and Green
+Blue and Grey
+Blue and Sliver
+Blue and White
+Blue Camouflage
+Blue Indigo
+Brave Blue
+Breeze Navy
+Bright Neon
+Bright Pink
+Bright Red
+Bronze
+Brown
+Brown and White
+Burgundy
+Butter
+Cactus Green
+Camo Pink
+Camouflage
+Canary Yellow
+Cardinal Red
+Celeste
+Champagne
+Charcoal
+Cherry
+Cherry with Lichen
+Chili Red
+Chocolate
+Chocolate and Blue
+Chocolate and Pink
+Chocolate Brown
+Citron
+Citron Green
+Citrus
+Coffee
+Cognac
+Copper
+Coral
+Coral Pink
+Cordovan with Beige
+Cordovan with Khaki
+Cordovan with Sage
+Cordovan with Tan
+Cornflower Blue
+Cotton Candy Blue
+Cream
+Cream and Gray 
+Cream White
+Crimson
+Crimson Red
+Crystal Blue
+Dark Blue
+Dark Brown
+Dark Cherry
+Dark Chocolate
+Dark Gray
+Dark Mahogany
+Dark Navy
+Dark Oak
+Deep Sea Blue
+Denim
+Denim Black
+Desert 
+Dreamy Aqua
+Dreamy Lavender
+Dreamy Lilac
+Eiffel Lavender
+Elm
+Emerald
+Espresso
+Espresso Cherry
+Fern 
+Firepower Red
+Flamingo
+Fossil Brown
+French Blue
+French White
+Frost White
+Fuchsia
+Garden Gray
+Glazed White
+Gloss Black
+Gold
+Granite
+Graphite
+Gray
+Gray and Gold
+Gray and White
+green
+Green and Orange
+Green and White
+Green Camo
+Grey
+Grey and Black
+Honey
+Hot Pink
+Hot Pink and Black
+Indigo
+Ivory
+Jasmine
+Khaki
+Lagoona Blue
+Latte
+Lavender
+Lemon Yellow
+Leopard
+Light Beige 
+Light Blue
+Light Brown
+Light Denim
+Light Grey 
+Light Oak
+Light Pink
+Light Purple
+Lilac
+Lime Green
+Magenta
+Mahogany
+Mango
+Maple
+Maroon
+Mars Red
+Matte Black
+Matte Blue
+Matte White
+Medieval Blue
+Metallic Red
+Metro Black
+Metro White
+Midnight Blue
+Midnight Navy
+Mint
+Mocacchino
+Mocha
+Mod Black
+Moka
+Mud
+Mushroom
+Napa Espresso
+Natural
+Natural Maple
+Natural White
+Nautical Navy
+Navy
+Navy Blue
+Neon
+Neon Flamingo
+Neon Green
+Neon Ultramarine
+Neon Yellow
+Nero
+Neutral
+Neutral Gray
+Nude
+Oak
+Ocean Blue
+Olive
+Orange
+Orange and Black
+Orange and Green
+Orangeade
+Orchid
+Orchid Purple
+Pacific Blue
+Park Gate Green
+Parrot Green
+Party Pink
+Pastel Green
+Pastel Pink
+Peach Mango
+Pear Mango
+Pearl
+Pearlized Chocolate
+Pecan
+Pine
+Pink
+Pink and Brown
+Pink and Chocolate
+Pink and Green
+Pink and Ivory
+Pink and Purple
+Pink and White
+Pink Lilac 
+Platinum
+Plum
+Power Blue
+Purple
+Red
+Retro Blue
+Rockin' Red
+Rocking Black
+Rose Orange
+Rosso
+Royal Blue
+Royal Cherry
+Sage
+Sand
+Savana Beige
+Savana Cacao
+Scarlet
+Sea Green
+Silver
+Silver and Purple
+Silver with Pink
+Sky Blue 
+Sky Light Blue
+Slate Gray 
+Snow White
+Soft Aqua
+Soft Blue
+Solare
+Solid Black
+Solid Blue
+Sour Apple Green
+Space Gray
+Speckled Brown
+Spring Green
+Starlight Olive
+Stone Gray
+Super Mega Red
+Sweet Kiwi
+Sweet Primrose
+Tan
+Tan and Ivory
+Tan and White
+Tangerine
+Tarragon
+Taupe
+Teal
+Teal and Pink
+Tiffany Blue
+Tortoise
+Tranquil Blue
+Trans Black
+Tropical Green
+Turquiose
+Turquois
+Vanilla
+Vanilla Pink
+Vintage Cherry
+Violet
+Virginia Cherry
+Walnut
+Watermelon
+Wheat
+White
+White Gray
+Winter White
+Yellow
+Yellow and Blue
+Yellow and Green
+Yellow and White
+amber
+amethyst
+apricot
+aqua
+aquamarine
+auburn
+azure
+beige
+black
+blue
+bronze
+brown
+buff
+burnt umber
+cardinal
+carmine
+celadon
+cerise
+cerulean
+charcoal
+chartreuse
+chocolate
+cinnamon
+complementary
+copper
+coral
+cream
+crimson
+cyan
+dark
+denim
+desert sand
+ebony
+ecru
+eggplant
+emerald
+forest green
+fuchsia
+gold
+goldenrod
+gray
+green
+grey
+hot pink
+hue
+indigo
+ivory
+jade
+jet
+jungle green
+kelly green
+khaki
+lavender
+lemon
+light
+lilac
+lime
+magenta
+mahogany
+maroon
+mauve
+mustard
+navy blue
+ocher
+olive
+orange
+orchid
+pale
+pastel
+peach
+periwinkle
+persimmon
+pewter
+pink
+primary
+puce
+pumpkin
+purple
+rainbow
+red
+rose
+ruby
+russet
+rust
+saffron
+salmon
+sapphire
+scarlet
+sea green
+secondary
+sepia
+shade
+shamrock
+sienna
+silver
+spectrum
+slate
+steel blue
+tan
+tangerine
+taupe
+teal
+terracotta
+thistle
+tint
+tomato
+topaz
+turquoise
+ultramarine
+umber
+vermilion
+violet
+viridian
+wheat
+white
+wisteria
+yellow
+Granita
+Gray Chevron
+candy pink
+candy green
+candy
+bubble gum

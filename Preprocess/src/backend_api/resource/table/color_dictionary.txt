@@ -1,0 +1,139 @@
+#white:color,Beige^0.8,Blond^0.6,Cornsilk^0.9,Eggshell^0.7,Isabelline^0.6,Ivory^0.9,Mint cream^0.6,Navajo white^0.5,White^1.0
+#pink:color,Carmine^0.5,Cerise^0.8,Fandango^0.8,Fuchsia^0.9,Magenta^0.8,Pink^1.0,Puce^0.7,Rose^0.8
+#red:color,Amaranth^0.9,Auburn^0.9,Burgundy^1.0,Cardinal^0.9,Carmine^1.0,Cerise^0.9,Crimson^0.9,Dark red^1.0,Folly^1.0,Fuchsia^0.8,Lust^1.0,Magenta^0.8,Maroon^1.0,Red^1.0,Rose^0.8,Rosewood^1.0,Ruby^0.9,Sangria^0.9,Scarlet^1.0,Vermilion^0.7
+#orange:color,Amber^0.9,Gamboge^0.9,Gold^0.8,Mahogany^0.7,Orange^1.0,Tangelo^0.9,Tenne^0.9,Vermilion^0.8
+#brown:color,Auburn^0.6,Beaver^0.9,Beige^0.6,Bistre^0.6,Bole^0.9,Bronze^0.7,Brown^1.0,Buff^0.6,Burgundy^0.7,Camel^0.9,Chamoisee^1.0,Citrine^0.5,Cordovan^0.8,Ecru^0.8,Fallow^0.8,Fawn^0.7,Fulvous^0.7,Mahogany^0.8,Maroon^0.7,Ochre^0.8,Rufous^0.6,Russet^0.7,Sepia^0.7,Sinopia^0.8,Tan^0.9,Taupe^0.6,Tawny^0.6,Umber^0.9,Wenge^0.9
+#yellow:color,Amber^0.9,Beige^0.6,Buff^0.7,Ecru^0.6,Gold^1.0,Goldenrod^0.8,Jonquil^0.9,Maize^0.9,Saffron^0.9,Sunglow^1.0,Yellow^1.0
+#gray:color,Gray^1.0,Black^0.7,Charcoal^0.8,Gunmetal^0.6,Silver^0.7,Taupe^0.7,Timberwolf^1.0,White^0.6
+#green:color,Chartreuse^1.0,Green^1.0,Harlequin^1.0,Mantis^0.8,Pistachio^0.8,Shamrock^1.0,green^1.0,Teal^0.8
+#yan:color,Aqua^1.0,Aquamarine^0.8,Celeste^0.9,Cerulean^0.8,Cyan^1.0,Skobeloff^0.7,Teal^0.7,Turquoise^0.9
+#lue:color,Azure^0.9,Blue^1.0,Celeste^0.9,Cerulean^0.9,Cyan^0.9,Glaucous^0.8,Navy^1.0,Periwinkle^0.7,Sapphire^1.0,Teal^0.6,Turquoise^1.0,Ultramarine^1.0,Zaffre^1.0
+#violet:color,Amethyst^1.0,Byzantium^0.8,Cerise^0.5,Fandango^0.7,Fuchsia^0.6,Heliotrope^1.0,Indigo^0.8,Magenta^0.5,Purple^1.0,Thistle^0.7,Violet^1.0,Wisteria^1.0
+Amaranth:color,241,156,187
+Amber:color,255,126,0
+Amethyst:color,153,102,204
+Aqua:color,0,255,255
+Aquamarine:color,127,255,212
+Auburn:color,147,39,36
+Azure:color,0,127,255
+Beaver:color,159,139,112
+Beige:color,245,245,220
+Bistre:color,61,43,31
+Black:color,0,0,0
+Blond:color,250,240,190
+blue:color,0,0,255
+Bole:color,121,68,59
+Bronze:color,205,127,50
+brown:color,150,75,0
+Buff:color,240,220,130
+Burgundy:color,128,0,32
+Byzantium:color,112,41,99
+#Camel:color,193,154,107
+Cardinal:color,196,30,58
+Carmine:color,150,0,24
+Celeste:color,135,206,235
+Cerise:color,222,49,99
+Cerulean:color,42,82,190
+Chamoisee:color,160,120,90
+Charcoal:color,54,69,79
+Chartreuse:color,223,255,0
+Citrine:color,228,208,10
+Clay Beige:color,245,245,220
+Cordovan:color,137,63,69
+Cornsilk:color,255,248,220
+Crimson:color,220,20,60
+cyan:color,0,255,255
+Dark red:color,139,0,0
+Ecru:color,194,178,128
+Eggshell:color,240,234,214
+Fallow:color,193,154,107
+Fandango:color,181,51,137
+Fawn:color,229,170,112
+Folly:color,255,0,79
+Fuchsia:color,255,0,255
+Fulvous:color,228,132,0
+Gamboge:color,228,155,15
+Glaucous:color,96,130,182
+Gold:color,212,175,55
+Golden:color,212,175,55
+Goldenrod:color,218,165,32
+Grape:color,66,28,82
+gray:color,128,128,128
+green:color,0,255,0
+grey:color,128,128,128
+Harlequin:color,63,255,0
+Heliotrope:color,223,115,255
+Indigo:color,111,0,255
+Isabelline:color,244,240,236
+Ivory:color,255,255,240
+Jonquil:color,244,202,22
+Khaki:color,195, 176, 145
+Lavender:color,128,0,128
+lime green:color,0,255,0
+Lust:color,230,32,32
+Magenta:color,255,0,255
+Mahogany:color,192,64,0
+Maize:color,251,236,93
+Mantis:color,116,195,101
+Maroon:color,128,0,0
+Mint cream:color,245,255,250
+Navajo white:color,255,222,173
+Navy:color,0,0,128
+Navy blue:color,0,0,128
+Ochre:color,204,119,34
+off white:246,234,219
+orange:color,255,127,0
+papaya:color,255,127,0
+Periwinkle:color,204,204,255
+pink gold:color,255,255,0
+pink:color,255,192,203
+pinkini:color,255,192,203
+Pistachio:color,147,197,114
+Plum:color,221,160,221
+Puce:color,204,136,153
+Purple:color,128,0,128
+red:color,255,0,0
+red plum:color,128,0,128
+rose gold:color,183,110,121
+Rose:color,255,0,127
+Rosewood:color,101,0,11
+Royal:color,0, 35, 102
+Ruby:color,224,17,95
+Rufous:color,168,28,7
+Russet:color,128,70,27
+Saffron:color,244,196,48
+Sage:color,156,159,132
+sand:color,237,201,175
+Sangria:color,146,0,10
+Sapphire:color,15,82,186
+Scarlet:color,255,36,0
+Sepia:color,112,66,20
+Silver:color,192,192,192
+Sinopia:color,203,65,11
+Skobeloff:color,0,122,116
+Sunglow:color,255,204,51
+Tan:color,210,180,140
+Tangelo:color,255,127,0
+Tangerine:color,255,204,0
+Taupe:color,72,60,50
+Teal:color,0,128,128
+Tenne:color,205,87,0
+Thistle:color,216,191,216
+Timberwolf:color,219,215,210
+Turquoise:color,64,224,208
+Ultramarine:color,63,0,255
+Umber:color,99,81,71
+Vermilion:color,227,66,52
+violet:color,143,0,255
+Wenge:color,100,84,82
+white:color,255,255,255
+Wisteria:color,201,160,220
+yellow:color,255,255,0
+Zaffre:color,0,20,168
+#XS:size,extra small
+#S:size,small
+#M:size,medium
+#L:size,large
+#XL:size,extra large
+#XXL:size,2XL
+#XXXL:size,3XL

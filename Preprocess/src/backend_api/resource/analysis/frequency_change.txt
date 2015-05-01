@@ -1,0 +1,293 @@
+#add list: please add word and importance: 1-3(1 is most important), please separate by tab
+#example: add	diaper 1
+#example: remove	diaper
+#modify list: add word you want to modify the importance(please indicate new importance level), please separate by tab
+#exapmle modify	diaper	2
+remove	pantyhose
+remove	test
+
+remove	
+remove	gown
+remove	bottom
+remove	bakeware set
+remove	better builders
+remove	glitter glue tube
+remove	gwipe
+remove	bongo
+remove	bulb syringe
+remove	camera set
+remove	gup cleaning station
+remove	bin set
+remove	booster chair
+remove	baby locator
+remove	ball set
+remove	licktoad
+remove	groomer set
+remove	car seat + car seat base
+remove	balloon kit
+remove	cafe latte
+remove	bbq grill
+remove	gourmet pack
+remove	geometric stacker
+remove	bike hoist
+remove	babywear set
+remove	bust
+remove	bug
+remove	battery booster
+remove	bendastix kit
+remove	bike
+remove	batting aid
+remove	glow stick
+remove	bath combo
+remove	blind cord
+remove	bottle tree
+remove	ballet tight
+remove	cerberus
+remove	candy box
+remove	blnkt
+remove	lil' snoopy
+remove	candy stick
+remove	bath letter
+remove	bath seat
+remove	backyard dart
+remove	burper and bauble
+remove	booster kit
+remove	germinator
+remove	bed sheet
+remove	lcd
+remove	bottle organizer
+remove	bandage
+remove	charge station
+remove	bleach
+remove	bead
+remove	babypote
+remove	bedroom collection
+remove	baby harness
+remove	bike bag
+remove	bank
+remove	gel
+remove	battle spider
+remove	bench organizer
+remove	lazer blast
+remove	blaze wing cycle
+remove	bracelet
+remove	candy
+remove	bust bank
+remove	bike storage
+remove	baby bed
+remove	harness
+remove	bath scrub
+remove	learning block
+remove	lifetime crib
+remove	bamboo
+remove	glycerin suppositories
+remove	baseball mezuzah
+remove	bottle sling
+remove	gas grill
+remove	backtrack
+remove	breastfeeding starter kit
+remove	bathful baby kit
+remove	gas relief drops
+remove	led tvs
+remove	googalops
+remove	blacklight
+remove	brewing system
+remove	bracelet set
+remove	canteen
+remove	butterfly diary
+remove	cake stand
+remove	blemish set
+remove	bowlercade
+remove	bed skirt
+remove	lincoln log
+remove	bilingual toy
+remove	garage
+remove	bounce castle
+remove	baby powder chime
+remove	label
+remove	breastfeeding companion
+remove	bollard cover
+remove	gift tower
+remove	gift play set
+remove	bloomhouse
+remove	gate adaptor
+remove	bottle handle
+remove	bathtable
+remove	broom
+remove	baby set
+remove	changing marker
+remove	boogie pack vehicle
+remove	cake lifter
+remove	gourmet feeder
+remove	burn dressing
+remove	lil fishy fish
+remove	base
+remove	baseball
+remove	lego city
+remove	ball ornament
+remove	bedding start-up set
+remove	basic brick
+remove	breastfeeding care kit
+remove	binocular
+remove	bubble rocket
+remove	barrette
+remove	booby tube
+remove	bowling zombie
+remove	lens filter
+remove	beauty set
+remove	led kit
+remove	bag tiss
+remove	led ball
+remove	hair clip
+remove	gift package
+remove	breast pump adaptor
+remove	bite relief
+remove	led fish
+remove	camcorder
+remove	baby tin
+remove	bison
+remove	laser disc
+remove	gwipes
+remove	beauty supply set
+remove	laundry pod
+remove	lego creator
+remove	bouncy seat
+remove	camera dock
+remove	guard post
+remove	laundry detergent pod
+remove	batgirl box
+remove	lacrosse stick
+remove	marker
+remove	ball blaster set
+remove	breast therapy
+remove	charging station
+remove	birdhouse
+remove	belt
+remove	bolster
+remove	bird tower
+remove	baby bottle caddy
+remove	beauty kit
+remove	lego
+remove	barbie electronic
+remove	band in a bucket
+remove	bath number
+remove	bottlewarmer
+remove	basket filler
+remove	balance board
+remove	baby wipe
+remove	grill basket
+remove	barbecue set
+remove	charge and chart bundle
+remove	baby sling
+remove	ballcap
+remove	lap pad
+remove	car charger
+remove	butternut squash
+remove	glider slip cover
+remove	ball cap
+remove	baking cup
+remove	car wash
+remove	beach umbrella
+remove	catching net
+remove	bibset
+remove	girl box
+remove	bath vanity
+remove	bottle liner
+remove	ladderback chair
+remove	bull
+remove	bulb
+remove	backsack
+remove	aviator bear
+remove	candy bar
+remove	glitter glue set
+remove	bald eagle
+remove	broom and dust pan
+remove	brsuise relief
+remove	bubble gum
+remove	launcher
+remove	belly balm
+remove	baking mat
+remove	blade
+remove	board
+remove	breast shell
+remove	bootie set
+remove	booster set
+remove	bag
+remove	blu-ray
+remove	cake
+remove	bathtub
+remove	giftset
+remove	bedskirt
+remove	groom kit
+remove	beans refill
+remove	bandz
+remove	bath tub mat
+remove	cake carrier
+remove	light filter
+remove	backrest
+remove	baking set
+remove	buggyboard extender kit
+remove	book set
+remove	hair accessory
+remove	baby shusher
+remove	bonzband
+remove	beach ball
+remove	bumper set
+remove	breast petal
+remove	bible taboo
+remove	bow
+remove	bakeware
+remove	bathroom set
+remove	colored pencil
+remove	car footie
+remove	golf cart bag
+remove	hair dresser
+remove	bungee
+remove	boot
+remove	bathing drape
+remove	bubber bucket
+remove	burrow bunny
+remove	body mist
+remove	glimmer studio
+remove	balloon seat
+remove	bubble launcher
+remove	branch
+remove	baby radio
+remove	gum cleanser
+remove	bowling toy
+remove	bracelet maker
+remove	bottle caddy
+remove	butterfly
+remove	charge base
+remove	bounder
+remove	bottle keeper
+remove	big tab
+remove	character frame
+remove	sling
+remove	booster carry case
+remove	bible blurt
+remove	booster pod
+remove	baby tub
+remove	hair elastic
+remove	body art kit
+remove	lighting
+remove	blind box
+remove	car rack
+remove	butt powder
+remove	bi-plane
+remove	leaf blower
+remove	bead ring
+remove	cast and sound kit
+remove	bracelet maker clipboard
+remove	boudoir
+remove	light
+remove	goldieblox
+remove	bubble marker
+remove	candy machine
+remove	gorilla
+remove	batting glove
+remove	bowser
+remove	bioliners
+remove	bath hammock
+remove	buffalo
+remove	balloon

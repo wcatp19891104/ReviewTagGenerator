@@ -1,0 +1,2477 @@
+637063	stroller	1581	1217
+3343	rug	1259	479
+835481	bottle	1088	476
+945235	diaper bag	1038	551
+172079	bib	946	430
+757571	pacifier	885	253
+910204	bodysuit	862	833
+557447	area rug	839	190
+73759	wall decal	795	791
+998730	blanket	757	538
+469278	crib	744	485
+920603	changing pad cover	666	518
+224694	dresser	576	495
+931901	convertible car seat	546	477
+21431	convertible crib	537	398
+842531	infant car seat	502	375
+206423	cover	495	225
+9592	toy	471	256
+268683	crib bedding set	466	260
+128872	window valance	453	450
+759520	pillow	453	359
+314535	print	447	95
+946802	diaper	446	388
+433996	t shirt	442	422
+18024	teether	426	202
+170477	gift set	414	338
+666857	high chair	403	294
+203130	book	403	350
+630551	booster car seat	403	351
+86975	gate	400	219
+325794	musical mobile	390	326
+621721	cup	389	165
+348960	ottoman	388	332
+641193	chair	362	311
+749300	bag	356	237
+433609	baby food	345	295
+139678	sippy cup	334	202
+653789	set	332	202
+933833	booster seat	324	201
+836176	crib sheet	324	217
+310290	baby carrier	316	234
+358953	wall art	296	224
+105903	straw cup	296	95
+157608	cotton	294	183
+127506	changing table	289	224
+839311	burp cloth	284	209
+786123	toddler bed	279	193
+617502	mobile	275	190
+463818	dvd	273	269
+166662	pant	271	216
+841776	bassinet	270	195
+924105	nipple	268	200
+535033	wood letter	260	245
+573569	playard	256	224
+246563	diaper stacker	249	168
+944916	travel system	246	210
+110291	liner	245	130
+664105	rattle	244	167
+153633	pad	242	152
+237851	canvas art	239	67
+985607	seat	233	129
+945977	baby bottle	231	121
+569612	carrier	230	189
+965620	mattress	227	177
+447718	wall applique	225	225
+988137	receiving blanket	222	94
+261852	crib bumper	219	182
+536468	dress	213	195
+737761	window panel	209	208
+438282	glider	208	141
+337001	bowl	207	96
+341259	nursing pillow	204	131
+422110	car seat	195	126
+515227	crib mattress	193	91
+320988	backpack	193	182
+101611	swaddle	192	91
+376886	spoon	190	83
+900280	organizer	190	145
+417888	lamp shade	188	165
+605047	block	187	114
+536518	changing pad	186	92
+826745	mirror	185	144
+90867	hat	182	153
+48185	tray	180	82
+867661	mat	178	100
+282590	rail	177	127
+106434	hamper	175	170
+219254	fitted crib sheet	175	150
+327835	plush	173	151
+722572	tee	172	159
+819806	lock	168	74
+818857	wipe	165	122
+255808	potty	164	91
+653603	knit	164	47
+483625	sock	164	140
+842392	top	162	134
+771946	case	161	62
+635548	sheet	161	107
+557039	shirt	159	136
+505886	booster	159	126
+730157	insert	159	75
+944954	cushion	157	104
+551057	pant set	157	138
+411958	short	157	136
+962570	crib bedding	157	35
+254347	pouch	156	130
+792623	bed	155	148
+100362	monkey	152	106
+245599	snack	152	55
+96305	rocker	151	136
+852936	storage	149	87
+805227	bumper	149	100
+480289	training pant	148	125
+395042	chocolate	146	111
+954842	video monitor	145	69
+244513	pajama set	143	136
+276570	cream	141	81
+682569	step stool	140	67
+96102	toy box	138	85
+594062	drawer chest	137	128
+475242	bean bag chair	137	133
+393909	bookcase	137	115
+45164	double stroller	136	104
+406111	wearable blanket	135	56
+25044	swaddling blanket	135	40
+570911	baby monitor	134	79
+849373	elephant	133	103
+895441	ball	130	83
+67363	pacifier clip	128	45
+32330	corner guard	128	5
+123109	tote	128	110
+866948	baby wipe	127	91
+925567	strap	126	36
+819687	toddler bedding set	124	102
+132978	wall hanging	124	117
+968353	table and chair set	123	60
+727190	car seat adapter	123	83
+870524	bouncer	122	107
+619668	bath	120	78
+284408	caddy	120	110
+298945	adapter	119	84
+826211	graphic tee	118	113
+430259	footie	118	93
+388752	table	118	78
+649773	lamp	118	115
+292801	sleeper	117	105
+637605	playwear set	116	113
+484638	storage bin	116	102
+457380	thermometer	114	101
+953637	breast pump	113	53
+628442	infant formula	111	105
+588893	memo board	111	111
+360676	tub	111	85
+274004	hoodie	110	107
+341557	trainer cup	110	37
+377873	poster	109	109
+47221	plate	108	59
+359940	giraffe	108	83
+470797	cd	107	102
+54630	light	106	68
+979473	swaddle blanket	105	60
+792887	valance	103	93
+741268	canopy	102	80
+849901	nursing cover	102	90
+57568	butterfly	102	79
+366145	swing	102	89
+247697	clock	101	95
+93860	camera	99	61
+772644	board	99	57
+782998	jogging stroller	97	73
+574970	swaddleme	97	35
+473164	headboard	97	96
+320862	wrap	97	70
+981382	changer	96	76
+372724	frame	96	65
+430517	formula	96	88
+458817	nursing pad	96	56
+835090	wallpaper border	94	92
+365047	hanging letter	94	94
+823427	hooded towel	93	66
+864792	refill	93	54
+985443	container	92	56
+234649	umbrella stroller	91	82
+543772	bedding set	91	65
+599130	bin	89	72
+341780	skirt	89	81
+850224	legging	89	81
+861992	bath toy	88	54
+75013	romper	88	80
+771814	car	87	71
+308527	baby blanket	87	53
+689929	jean	85	80
+978486	accessory	85	44
+314197	layette set	85	82
+347890	bear	85	57
+149780	table lamp	84	47
+46320	legging set	84	79
+839937	gate extension	83	18
+333782	quilt	83	49
+909200	decor	83	70
+847285	shoe	83	77
+486294	bunny	83	49
+742500	wallpaper	82	82
+993661	animal	82	58
+150846	starter set	82	50
+366921	bottle brush	82	46
+627631	cube	82	53
+934220	box	81	69
+636742	safety gate	81	22
+14134	sleeve	80	43
+406266	changing station	80	31
+39054	footmuff	80	66
+442272	play set	80	72
+501525	potty seat	79	48
+15836	chest	79	58
+454024	swim diaper	78	58
+678996	cradle	78	49
+786135	nurser	78	5
+349620	mose basket	78	34
+676465	shield	78	38
+81522	comforter set	78	66
+58577	microfleece	77	63
+673238	play yard	77	63
+140912	walker	76	66
+421931	safari	76	52
+777199	bug	76	53
+386028	cooler	75	74
+78620	underwear	75	69
+22994	glider ottoman	74	65
+676750	washcloth	74	65
+398661	pop	73	58
+319301	sheet set	73	67
+324926	brush	73	44
+380767	monitor	73	31
+257484	dog	73	51
+905031	storage cube	73	51
+218377	guard rail	72	28
+685543	pacifier holder	72	14
+1913	bed rail	72	52
+55426	highchair	72	35
+773107	recliner	71	46
+112200	cup holder	71	44
+786324	dispenser	71	20
+919801	tunnel	70	66
+48551	crib set	70	45
+975458	sleeping bag	70	66
+934409	lotion	70	54
+929142	humidifier	70	70
+805400	shade	69	57
+452748	shampoo	68	41
+474196	clip	68	39
+644847	board book	68	49
+320864	storage unit	68	46
+796964	mini crib	67	55
+310586	basket	67	48
+232567	cap	66	48
+473396	twin bed	66	64
+984597	duck	66	48
+215434	beanbag	66	66
+894317	pajama	65	64
+736227	training cup	65	22
+405908	puree	65	42
+147628	puzzle	65	64
+114643	swaddlepod	65	10
+820788	placemat	65	56
+676709	puppy	65	53
+221435	toothpaste	64	21
+405462	sunglass	64	62
+917717	toy chest	64	44
+348329	drinking cup	64	8
+682449	rain cover	64	45
+585653	conversion kit	63	53
+263827	toddler guard rail	63	52
+251180	yogurt	63	53
+796212	protector	63	21
+777825	holder	62	39
+781862	bib set	62	39
+926400	decal	62	62
+950722	spout cup	62	11
+696301	panel	62	50
+719354	food	62	32
+210387	fruit	61	46
+715669	necklace	61	50
+878204	framed art	61	14
+449080	latch	61	23
+757256	food pouch	60	25
+787622	body wash	60	34
+304134	night light	60	51
+14041	wall decor	60	58
+527062	slipcover	60	55
+683133	cloth diaper	60	46
+215085	toothbrush	60	27
+108459	kitchen	59	50
+891895	feeding set	59	33
+283843	essential oil	59	57
+91236	night stand	58	55
+636606	storage box	58	51
+186461	jacket	58	45
+121467	fleece	58	21
+703588	cat	58	55
+426184	nursing bra	57	51
+167587	applique	57	44
+291279	twin sheet	57	56
+515459	pendant	57	0
+454030	crib liner	57	39
+687189	formula dispenser	56	20
+312372	upholstered chair	56	56
+538328	storage bag	56	33
+944093	outlet cover	56	20
+460623	game	56	28
+709867	lion	55	35
+481557	potty chair	55	28
+914525	turtle	55	44
+551001	activity table	55	55
+47744	play mat	55	38
+714668	key	54	32
+993717	diaper cover	54	50
+348648	burpy bib	54	50
+426722	security blanket	54	51
+561921	tunic	54	51
+115480	curtain panel	53	47
+217898	comforter	53	37
+146383	oil	53	15
+129125	stand	53	37
+563242	cereal	52	44
+682186	hutch	52	47
+102701	long john	52	52
+11577	seat liner	51	26
+530523	bedding	51	32
+446418	headwrap	51	51
+194121	toy organizer	51	34
+297244	gown	51	40
+669630	lunch bag	51	51
+837504	neck support	51	27
+982545	diaper pail	51	39
+887538	infant car seat base	51	48
+590939	convertible carrier	51	0
+351665	lullaby	51	38
+55904	sneaker	50	50
+39696	sandal	50	50
+203942	zebra	50	31
+202456	stroller toy	50	36
+191617	feeding bottle	50	19
+572781	head support	50	44
+50571	dino	50	40
+43559	stick	49	44
+669272	sorter	49	32
+990793	drying rack	49	36
+196878	wash	49	32
+94258	nasal aspirator	49	26
+320331	nap mat	49	40
+214185	fitted sheet	48	30
+237434	crib mobile	48	26
+933733	dressing table	48	40
+670154	soother	48	39
+201660	throw	48	39
+961140	bottle warmer	48	36
+80148	chair set	47	42
+135928	truck	47	38
+241600	weather shield	47	25
+692344	bubble bath	47	38
+658865	strap cover	46	38
+13267	block set	46	16
+597994	growth chart	46	41
+702209	silicone nipple	46	24
+510081	bubble	46	42
+107377	tandem stroller	46	41
+962590	toddler mattress	46	42
+175306	play tent	46	46
+278667	storybook	45	44
+958668	baby lotion	45	27
+615318	desk	45	39
+530000	spoon set	45	35
+719702	outfit	44	43
+477859	sticker	44	40
+969449	vest	44	20
+982025	bath mat	44	11
+616481	food jar	44	20
+163164	bean bag	43	39
+559233	carrycot	43	35
+336704	creeper	43	38
+706289	wipe warmer	43	27
+824041	stroller organizer	42	29
+99391	cart	42	31
+486856	cabinet lock	42	19
+83560	hanger	42	41
+279280	pram	42	35
+46944	sack	42	29
+109106	bassinet sheet	42	35
+178185	swimsuit	42	36
+110894	bedrail	42	19
+355280	bunk bed	42	42
+495469	twin comforter	42	38
+703218	playard sheet	42	40
+681543	rock	42	26
+362277	easel	41	40
+446000	travel system stroller	41	40
+800728	bootie	41	30
+393752	hook	40	34
+621902	nursery set	40	11
+791209	mattress pad	40	23
+829893	door lock	40	13
+619680	lid	40	23
+497569	shopping cart cover	40	34
+356561	glider rocker	40	33
+559080	cabinet	39	28
+171824	toddler bedding	39	25
+283182	essential	39	32
+768779	polo	39	36
+374093	audio monitor	39	21
+50774	activity gym	39	33
+729138	gym	39	32
+83314	bath tub	39	23
+282892	tent	39	37
+400980	penguin	38	29
+894587	stool	38	33
+274388	baby jogger	38	33
+268334	doll	38	26
+714000	cleaner	38	27
+494526	stacker	38	24
+673902	travel bag	38	22
+822739	seatsaver	38	13
+206800	pacifier attacher	37	2
+45869	cover up	37	25
+944390	shelf	37	29
+206834	stroller liner	37	13
+633632	boat	37	32
+70757	cot	37	19
+164076	cap set	37	33
+229710	storage bench	37	21
+141280	memory book	37	33
+451378	changer dresser	37	24
+777353	drawer	37	28
+725208	towel	37	22
+715577	faucet extender	37	3
+897072	sport bottle	37	23
+123561	tank	36	31
+804614	plug	36	18
+721836	ring	36	19
+702790	flash card	36	30
+297424	sofa	36	34
+427747	pad cover	36	20
+713985	nightstand	36	32
+82094	pump	35	24
+186652	spill proof cup	35	17
+396131	playset	35	31
+958303	wall hanging set	35	35
+921480	pajamas	35	30
+4421	portable crib	35	26
+844175	rail cover	35	34
+169881	blankie	35	18
+259828	powder	35	30
+298650	coverall	34	24
+192093	grooming kit	34	22
+920099	divided plate	34	27
+71122	food feeder	34	3
+246347	infant insert	34	30
+27680	train	34	26
+534693	card	34	24
+116265	baby bather	34	13
+453793	bead	34	26
+97460	washcloth set	33	32
+621201	phone	33	26
+581232	storage cabinet	33	27
+982761	water bottle	33	20
+20494	crayon	33	27
+733809	feeder	33	9
+881245	corner protector	33	14
+923975	ointment	33	24
+762310	diaper changer	33	11
+182658	gpant	33	33
+655961	gateway	33	18
+268020	horse	33	18
+186175	sunscreen	33	24
+469520	bank	32	22
+635464	ottoman set	32	25
+837397	hand sanitizer	32	31
+407879	table chair	32	31
+354910	high chair cover	32	26
+39061	loft bed	32	30
+45942	toy bag	32	26
+543115	tote bag	32	27
+421436	pillowcase	32	31
+87303	puppet	32	17
+942547	musical	32	28
+79511	hanging art	31	0
+598188	cardigan	31	29
+534059	changing table cover	31	15
+915260	topper	31	30
+759128	food mill	31	8
+889554	tree	31	18
+142391	crib skirt	31	23
+197764	steam sterilizer	31	19
+90891	wall border	31	24
+43128	fork	31	20
+605847	playmat	31	17
+451912	scooter	31	29
+17113	massage oil	31	7
+40536	puff	31	20
+419490	starter kit	31	19
+950024	nightlight	31	19
+838911	balm	31	12
+201922	baby bath	31	11
+460286	swing gate	30	16
+655834	juice	30	13
+959522	sterilizer	30	20
+25635	co sleeper	30	23
+75792	figure	30	29
+150495	powder infant formula	30	29
+726331	dish	30	21
+825571	car seat cover	30	14
+290435	mural	30	29
+830682	diaper cake	30	29
+627257	storage trunk	30	30
+205732	baby oil	29	9
+464771	belt	29	12
+594436	sippy	29	9
+610940	filter	29	23
+455992	bench	29	22
+843855	bath set	29	23
+922341	mitten	29	29
+706156	body support	29	13
+348650	swaddler	29	18
+699489	pj	29	22
+45506	spray	29	25
+380233	bra	29	27
+363211	sponge	29	11
+132116	first-aid kit	29	25
+669771	chandelier	28	28
+77639	music	28	21
+375587	mount	28	16
+219659	wash cloth	28	15
+759048	infant seat	28	26
+577685	crib blanket	28	9
+796728	peel stick border	28	28
+679164	burpy	28	19
+785064	harness	28	25
+407118	scale	28	9
+996814	door	28	15
+275437	pack n play	27	24
+690292	seat protector	27	18
+293822	wall sticker	27	26
+170274	fan	27	10
+752748	parasol	27	25
+814843	snuggler	27	10
+397950	vehicle	27	27
+374454	projector	27	3
+451368	nipple brush	27	14
+167807	sling	27	25
+517873	laundry detergent	27	26
+907639	picture frame	26	25
+180866	teething feeder	26	7
+844416	teething necklace	26	14
+84379	color pack	26	15
+217617	plush doll	26	23
+581710	onesie	26	7
+577443	ride on	26	13
+205900	straw	26	9
+812161	bollard	26	0
+943229	gift certificate	25	23
+965859	foam	25	15
+657796	carseat	25	17
+939569	arm cover	25	21
+629648	gift	25	15
+477028	rocking horse	25	22
+734293	sleepwear	25	25
+270263	gel	25	21
+451486	snack cup	25	23
+984685	veggie	25	24
+488791	sunshade	25	22
+320435	edge guard	24	6
+643866	sweater	24	20
+574001	activity table and chair set	24	24
+941583	bloomer set	24	24
+89156	pain reliever	24	18
+786776	fabric set	24	21
+250037	extension kit	24	15
+941815	minnie mouse	24	22
+458945	jar	24	13
+712365	armoire	24	19
+186266	knit blanket	24	15
+752073	lunch box	24	23
+578222	gripe water	24	5
+50297	edge protector	24	4
+31258	luggage	24	23
+707566	stroller blanket	24	20
+877182	lamb	24	19
+834378	floor seat	24	22
+857752	whale	24	20
+728854	butter	24	20
+256114	bucket	24	19
+149446	bottle-drying rack	24	21
+755044	weepod	23	14
+286237	carpet	23	2
+229338	squirter	23	20
+220852	sound machine	23	14
+143525	snack tray	23	13
+442831	sippigrip	23	3
+305085	tube	23	10
+971020	toddler sheet set	23	21
+212705	nightgown	23	19
+349834	shelving	23	16
+58113	sun shade	23	19
+433978	robe	23	23
+362299	lifetime crib	23	22
+323685	bed conversion kit	23	16
+285521	activity center	23	19
+754534	breast pad	22	13
+10188	sweatshirt	22	21
+22380	bowl set	22	16
+945445	vitamin	22	14
+591122	bottom	22	1
+53163	locker	22	19
+99946	playmat set	22	12
+6521	cake	22	21
+147774	soap	22	16
+182997	sheep	22	17
+509761	diaper rash cream	22	18
+275844	pet	22	17
+5967	drink	22	17
+297282	jegging	22	19
+833164	boot	22	14
+164294	border	22	22
+945094	beanie	22	22
+310683	slide	22	18
+255205	cooler bag	22	12
+117216	bookend	22	21
+919301	floor rug	22	22
+535760	bookshelf	22	22
+882087	bracelet	22	19
+240557	stair	21	2
+994765	card set	21	19
+902259	cable	21	20
+427776	activity walker	21	17
+489893	crib and changer	21	19
+841760	sand	21	16
+746499	convertible	21	21
+442314	wedge	21	14
+872956	jogger	21	10
+409184	rocking chair	21	21
+130605	wall panel	21	20
+540922	faucet cover	21	7
+514270	trainer	21	15
+974901	toss pillow	21	17
+650512	nipple shield	21	13
+153557	bed tent	20	20
+478885	baby wash	20	11
+774657	hooded towel set	20	10
+146055	robot	20	8
+993372	table chair set	20	7
+383995	bottle set	20	11
+400226	toilet trainer	20	16
+427850	mealtime set	20	15
+745809	burp	20	2
+715178	kusion	20	2
+939496	sleep sack	20	8
+490943	baby powder	20	10
+553532	baby set	20	16
+647743	portable swing	20	19
+821010	handle lock	20	6
+202800	jogger stroller	20	20
+195516	bedroom collection	19	0
+707836	suit	19	2
+622164	train set	19	19
+623621	cubby	19	18
+452250	lanolin	19	6
+69359	stroller base	19	15
+485209	freezer	19	6
+844510	cow	19	11
+281016	piggy bank	19	10
+48119	nursing tank	19	2
+662688	parachute	19	18
+848975	house	19	14
+270366	book display	19	18
+213063	brick	19	17
+771813	blanket sleeper	19	19
+446316	rocket	19	15
+222822	baseball	19	18
+257970	hand soap	19	16
+21775	guitar	19	9
+118291	travel bed	19	19
+547035	raincover	19	16
+955757	net	19	9
+477830	car seat base	19	14
+878615	octopu	18	17
+656897	membrane	18	12
+266140	elmo	18	16
+702268	mitt	18	15
+129948	building block	18	7
+69508	netting	18	7
+603788	wrap baby carrier	18	16
+872358	lamp base	18	17
+846014	blanky	18	14
+376681	diaper tote	18	16
+737559	onezee	18	0
+682283	baby stroller	18	4
+685773	hair clip	18	16
+511496	car seat travel bag	18	15
+907469	brief	18	18
+678811	baby rattle	18	3
+792232	baby food maker	18	4
+404018	dragon	18	16
+360086	napper	18	8
+8686	bathtub	18	12
+624219	car seat adaptor	18	9
+825518	ruffle	18	9
+725581	utensil set	18	16
+355832	dinosaur	18	13
+298838	bumper pad	17	8
+726894	xylophone	17	15
+634191	tablet	17	15
+367347	cutlery	17	15
+529508	diaper clutch	17	13
+561113	hippo	17	10
+435050	wipe dispenser	17	17
+66204	fragrance	17	13
+750475	crib rail cover up	17	17
+834878	teething relief	17	2
+802506	tool	17	12
+651563	playball	17	17
+980712	balance bike	17	17
+320222	burpie set	17	13
+105332	mary jane	17	12
+948763	portable crib sheet	17	3
+99017	stroller bag	17	7
+558403	post sleeve	17	0
+252807	overall	17	17
+555158	second seat kit	17	10
+576519	switch	16	12
+447132	timer	16	5
+525513	polo shirt	16	16
+570483	burp set	16	16
+457924	flip sofa	16	15
+370127	top and pant set	16	11
+420877	tutu	16	13
+871630	silicone sleeve	16	16
+214176	conditioner	16	13
+458439	burpcloth	16	16
+497315	decor kit	16	16
+806439	doorway jumper	16	15
+460160	chime	16	14
+808664	stacking cup	16	8
+47628	activity mat	16	4
+800601	plush toy	16	11
+982217	installation kit	16	9
+552272	messenger diaper bag	16	16
+899628	mattress cover	16	8
+267286	sleep surface	16	5
+158181	piano	16	13
+927245	role play set	16	16
+759437	console	16	9
+778520	buckle bag	16	7
+843126	umbrella	16	11
+438192	wastebasket	16	12
+942822	baby cup	15	4
+542034	tumbler	15	14
+263999	bodywash	15	12
+966646	bubbling spa shower	15	1
+407217	bumper set	15	2
+774648	attachment	15	4
+806783	bamboo	15	12
+785148	pillow pack	15	15
+113459	crib and changing table	15	13
+228672	pressure gate	15	9
+777261	kick mat	15	7
+906586	straw cleaner	15	0
+28895	utensil	15	11
+624452	rack protector	15	0
+586043	dust ruffle	15	6
+312325	sock set	15	15
+665287	cami	15	15
+82839	guardrail	15	3
+978952	roller shade	15	11
+537878	toilet lock	15	8
+737518	safe step	15	15
+999238	sound book	15	15
+610663	panty	15	8
+645670	airplane	15	11
+753450	wheely	15	15
+232292	jumper	15	15
+430980	stroller hook	15	9
+859938	bow	15	11
+963366	one piece	15	15
+661681	panda	15	10
+563805	stroller travel bag	15	10
+883847	swim trunk	15	15
+206670	seat cover	15	13
+802863	sunscreen lotion	14	13
+884495	wallet	14	12
+40565	sun canopy	14	10
+459426	body oil	14	7
+332187	football	14	10
+619951	rain canopy	14	5
+910737	crib pad	14	12
+329823	wall decal sticker	14	14
+472054	hat set	14	13
+721509	dollhouse	14	14
+260684	playwear	14	14
+244725	child carrier	14	14
+665965	activity ball	14	10
+629110	lovie	14	8
+806885	bin organizer	14	13
+938361	cradle pad	14	10
+342687	booty	14	13
+312466	tiger	14	9
+71682	infant wrap	14	10
+591370	breastpump	14	4
+665004	storage bin set	14	14
+288031	bike	14	13
+952175	mosquito net	14	9
+202432	superbib	14	7
+284595	roller	14	6
+76843	capri	14	14
+690327	cabana	14	13
+796177	wall plaque	14	8
+653415	side snap babybody	14	14
+324165	steel bottle	14	2
+719008	exersaucer	14	14
+57146	potty protector	14	5
+791257	toy bar	14	9
+321127	twin bedding set	14	14
+372024	connector	14	4
+521562	spout guard	14	6
+601676	wipe case	13	10
+277988	cradle swing	13	12
+468038	yoga pant	13	9
+200942	headband	13	8
+853266	lunch kit	13	12
+436954	teething toy	13	13
+111589	nail clipper	13	11
+210508	healthcare kit	13	12
+104573	cooler attachment	13	13
+661667	bubble guppy	13	13
+152112	carry bag	13	10
+342378	tricycle	13	9
+216572	babybody	13	6
+921841	tank top	13	11
+750858	smock	13	5
+408583	battery	13	8
+730160	wall mural	13	12
+576766	viewing system	13	3
+268489	bath wrap	13	11
+481755	play gym	13	10
+819235	basket set	13	13
+714463	bunting	13	11
+751575	squeeze	13	4
+987324	training seat	13	8
+819175	tractor	13	9
+936050	dolphin	13	12
+98917	counter	12	10
+9332	superyard	12	11
+676555	drum	12	11
+115001	coat	12	6
+37699	nursery tent	12	12
+691624	drawer latch	12	2
+837438	maker	12	9
+18176	water shoe	12	6
+612438	tile	12	11
+261789	mattress protector	12	9
+754178	engine	12	12
+844319	teething ring	12	8
+50601	feeding system	12	7
+708857	layette	12	11
+529094	crib fitted sheet	12	5
+209504	bassinet kit	12	11
+93541	bug cover	12	5
+70578	medicine	12	7
+180021	hedgehog	12	11
+623653	stroller sunshade	12	11
+832045	pail liner	12	2
+824913	juice box	12	1
+403583	chime ball	12	11
+838954	tight	12	11
+840207	leotard	12	12
+437875	stoller	12	7
+239232	changing topper	12	11
+534771	pillowtime pal	12	12
+267004	backpack harness	12	12
+807075	teepee	12	9
+341219	fox	12	8
+864652	stamp	12	8
+843282	teething guard	12	11
+355016	crib rail cover	12	5
+903648	chairry	12	0
+349200	changer combo	12	4
+9885	car seat protector	12	10
+525867	wand	12	11
+229147	prefold	12	10
+111209	cart cover	12	12
+297410	treat bag	11	11
+412984	soothie	11	1
+2310	rocking crib	11	10
+708703	stool set	11	9
+248830	stroller frame	11	11
+234422	pacifier wipe	11	7
+957861	shaker	11	5
+573738	skinny jean	11	11
+712928	tableware plate	11	11
+584612	back seat mirror	11	9
+146915	locking system	11	5
+200387	jumpsuit	11	11
+137063	learning toy	11	10
+119174	tv	11	7
+106433	plaque	11	9
+253768	floor puzzle	11	11
+653635	mermaid	11	10
+437116	gear	11	4
+357676	onesies	11	10
+117383	journal	11	5
+418257	ball set	11	5
+884509	floor mat	11	7
+993167	stroller seat	11	9
+883239	paint	11	9
+276742	machine guard	11	0
+5583	pottypod	11	9
+419457	bodysuit set	11	11
+931365	frame set	11	11
+356531	satchel	11	9
+957717	hand puppet	11	6
+892134	laptop	11	9
+901839	tie	11	4
+87454	diaper pail refill	11	8
+310942	remote	11	6
+61627	molding	11	0
+323783	undershirt	11	11
+196088	configuregate	11	10
+806784	tripp trapp	11	11
+270787	booby tube	11	1
+591279	side table	11	9
+576424	bat	10	0
+576736	flip flop	10	10
+769423	full bed	10	10
+486244	cracker	10	8
+404	detergent	10	10
+978255	ravioli	10	10
+171893	toddler cup	10	2
+104126	diaper backpack	10	9
+269807	travelbag	10	6
+892060	transport bag	10	8
+197063	brush comb	10	8
+703377	vanity	10	10
+47839	beach towel	10	9
+887787	potty ring	10	8
+666201	lunchy	10	10
+248353	shopping cart	10	9
+556261	bootie set	10	10
+189021	bath spout cover	10	10
+104246	jumperoo	10	10
+982918	sun hat	10	9
+878357	house tent	10	10
+511315	play house	10	9
+172081	lollacup	10	0
+54832	racer	10	7
+95943	wagon	10	7
+291300	sham	10	9
+93761	hammock	10	9
+217954	climber	10	4
+445573	wall decal set	10	10
+462455	suitcase	10	7
+144130	teether ball	10	2
+733761	crate	10	2
+518220	utility stroller	10	7
+818276	sea squirt	10	1
+434474	pattern block	10	2
+574768	backseat organizer	10	3
+890715	snuggle nest	10	6
+354712	changing clutch	10	9
+809953	push toy	10	8
+471985	rain shield	10	6
+315880	change kit	10	6
+361917	magnet	10	4
+310203	snack bag	10	6
+575978	toddler kushion	10	6
+556782	book set	10	3
+384997	calendar	10	8
+26939	furniture	10	3
+830932	potty system	10	10
+149557	sleepsack	10	7
+265938	play carpet	10	10
+514271	baseball cap	10	9
+884464	supergate	10	9
+104634	helmet	10	6
+700625	duffel bag	9	9
+876582	pony	9	8
+78842	sipper	9	8
+70800	donkey	9	5
+362939	stacking ring	9	5
+969177	scissors	9	6
+253887	changing table pad	9	4
+608724	candy	9	9
+827968	teddy bear	9	3
+111494	nursery care kit	9	3
+460639	learning tower	9	3
+405059	disposable diaper	9	9
+902652	insulator	9	6
+90278	bento box	9	4
+770444	belly band	9	7
+288214	carrier cover	9	7
+692126	silverware set	9	9
+559330	bebepod	9	7
+41300	layette gift set	9	9
+625983	school bus	9	7
+564115	rumbleseat	9	7
+561183	table set	9	6
+768847	snack pack	9	7
+664775	toddler pillow	9	4
+867957	lever lock	9	4
+157579	sprayer	9	1
+717454	potty topper	9	6
+241921	digital monitor	9	6
+978954	unicorn	9	9
+511171	platform	9	2
+125952	stroller board	9	8
+662252	bumper pad set	9	0
+195380	comb	9	5
+854347	blanket set	9	6
+988594	butternut squash	9	8
+776803	bathing suit	9	9
+898567	lip balm	9	8
+17211	keepsake	9	7
+737061	bustier	9	9
+221800	tin	9	7
+614940	trike	9	2
+471873	dinnerware set	9	6
+655374	door guardian	9	4
+178224	mini duck	9	2
+512592	bin storage	9	7
+269713	tee shirt	9	8
+224319	car seat canopy	9	7
+75380	nursing shawl	9	8
+666809	window	9	5
+314651	mobile organizer	9	9
+522177	sunscreen stick	9	9
+756061	toddler formula	9	9
+15267	cruiser	9	7
+47745	food container	9	4
+581527	activity cube	9	9
+148794	seat pad	9	7
+837544	plane	9	9
+287968	lovey	9	6
+250514	play table	8	5
+527746	waterproof pant	8	7
+138191	scarf	8	3
+115241	photo frame	8	7
+555396	chifferobe	8	8
+281000	milk	8	6
+749857	drink holder	8	4
+819964	bath book	8	8
+814718	pocket chart	8	7
+885678	firefly	8	6
+395580	infant positioner	8	2
+968606	footy	8	8
+679585	brush set	8	6
+752964	spout cover	8	7
+123538	cafe booster	8	6
+226193	helicopter	8	7
+723841	curtain rod	8	8
+119160	clipper	8	0
+475669	coloring book	8	8
+248796	gum cleanser	8	2
+321495	accessory kit	8	6
+887513	ribbon	8	6
+642343	pillow sham	8	8
+957686	hydration bottle	8	8
+64208	bottle handle	8	8
+406269	baby gate	8	8
+517214	softgel	8	8
+583187	pig	8	5
+334441	rubber duck	8	2
+485341	nourishing lotion	8	8
+260005	crib cover	8	2
+901030	shampoo wash	8	6
+245422	figurine	8	6
+982372	pool	8	4
+826870	cup set	8	5
+942064	stain remover	8	8
+303460	quadrilla	8	8
+843907	pjs	8	8
+343892	snack disk	8	8
+221007	clothes	8	1
+579897	marker	8	8
+920673	appliance latch	8	4
+342572	breast petal	8	0
+225731	positioner	8	3
+259591	towelette	8	8
+309908	accessory pack	8	4
+108037	flatware	8	2
+130044	picnic table	8	2
+518778	toddler bowl	8	4
+455592	bottle liner	8	3
+935488	sheet saver	8	6
+548833	storage seat	8	8
+171747	sound system	8	3
+487394	diaper liner	8	7
+266646	pegboard set	8	0
+224089	breastshield	8	6
+754865	safety harness	8	4
+125424	flashlight	8	6
+948885	curtain	8	6
+336031	baby doll	8	8
+926607	peacock	8	8
+5323	car seat sun shade	8	2
+357625	warming plate	8	1
+199512	baby bathtub	8	7
+418951	cradler	8	3
+133194	coverlet	8	5
+123152	newborn lounger	8	8
+308497	travel cap	8	4
+975905	piddlepad	8	2
+634571	purse	7	7
+247264	pen	7	6
+880705	herbal extract	7	7
+900671	flea control	7	7
+235591	dump truck	7	6
+538288	pedal car	7	7
+417483	bloomer	7	7
+350347	dresser topper	7	7
+122523	insect net	7	5
+788604	soft spout	7	5
+64952	angle lock	7	1
+722467	storage drawer	7	7
+437777	teething tether	7	7
+91454	saucer chair	7	7
+867221	gift basket	7	6
+82154	ramp	7	4
+647435	throw pillow	7	7
+279541	sport sipper	7	7
+885658	mommy hook	7	5
+506395	entree	7	7
+289063	mobile entertainer	7	6
+190199	protector pad	7	6
+440291	lounger	7	7
+671934	container set	7	3
+677098	drying station	7	6
+940279	keyboard	7	4
+326723	storage pouch	7	7
+426468	travel pillow	7	5
+337467	sleep system	7	6
+881932	costume	7	6
+247997	floor	7	5
+428336	tubing	7	1
+445689	senso-dot ball	7	2
+447512	bookcase and storage	7	7
+545014	playhouse	7	5
+140488	decorating kit	7	7
+264455	sling bookshelf	7	7
+813912	bed canopy	7	4
+266176	watch	7	1
+458151	table and chair	7	6
+713610	apron	7	2
+272010	nursing stool	7	6
+142263	garage	7	7
+667091	storage case	7	7
+893726	wet dry bag	7	7
+681149	teething tablet	7	6
+786461	wooden letter	7	3
+621422	hooded bath towel	7	7
+105923	cord	7	1
+346897	toddler dining set	7	3
+294765	finger guard	7	4
+228088	petticoat slip	7	0
+448595	butt paste	7	2
+434657	pillow cover	7	6
+153167	teething gel	7	4
+660750	refill pack	7	5
+20689	cord shortener	7	2
+426357	banner	7	7
+565620	activity seat	7	7
+978686	tambourine	7	3
+865388	stroller cover	7	2
+283455	jingler	7	7
+516510	anchor	7	4
+991110	cupboard	7	6
+402286	juice box buddy	7	1
+846544	changing bag	7	6
+601767	bath sling	7	3
+793090	stuffed animal	7	3
+701650	diaperdepot	7	7
+735442	toy storage	7	3
+623701	diaper pin	6	5
+575194	tabletop	6	6
+9741	dish soap	6	5
+803834	teat	6	0
+14393	sun cover	6	1
+131690	basketball	6	5
+489576	feeding plate	6	1
+13535	expansion pack	6	6
+210093	inflator	6	6
+903920	bath squirty	6	6
+538355	scoop	6	5
+726393	bicycle	6	5
+457044	art easel	6	6
+547561	air pump	6	6
+323524	fire engine	6	4
+409738	tape	6	5
+42312	nail trimmer	6	2
+478407	lunastar	6	0
+451223	race car	6	3
+944396	front loader	6	6
+271161	dress up	6	4
+529724	cushystrap	6	0
+355093	patio set	6	6
+913518	slumberbag	6	6
+118976	gift box	6	5
+864328	safe sippy	6	3
+656525	mower	6	6
+280522	infant starter set	6	5
+819244	paper	6	4
+370534	nursing camisole	6	1
+552082	hair conditioner	6	6
+855766	throw set	6	6
+613353	tea set	6	4
+193809	drawer cart	6	6
+888260	kimono	6	4
+948907	seating system	6	4
+724475	rain jacket	6	6
+782838	changing kit	6	3
+773093	massager	6	3
+707890	breast therapy	6	2
+70406	mobicam	6	4
+266964	cottage	6	6
+380031	blind cord	6	2
+400930	moose	6	5
+395429	replacement valve	6	3
+694909	hydrogel pad	6	6
+200813	tumzee	6	0
+176938	bath duck	6	3
+645254	boosterseat	6	6
+521614	balloon	6	4
+734725	swimwear	6	6
+595691	cozy slumber	6	4
+380836	eagle	6	4
+276410	sunblock	6	4
+966020	closet organizer	6	6
+479040	banister kit	6	6
+991971	plate set	6	6
+382917	storage shelf	6	3
+48836	hair accessory	6	6
+524698	flange	6	5
+598639	cookbook	6	6
+249432	photo album	6	5
+169409	bubble maker	6	5
+849406	wrap carrier	6	6
+463452	activity set	6	3
+648357	baby gear	6	6
+129656	jelly bean	6	6
+136397	valve	6	3
+949949	cloth	6	4
+448673	clothes pole	6	6
+528031	headrest	6	5
+133159	seal	6	4
+703058	prune	6	4
+755841	earmuff	6	6
+459804	food maker	6	5
+320095	band aid	6	5
+599658	moisturizing balm	6	6
+584135	tableware	6	1
+896209	air purifier	6	6
+577363	play tray	6	4
+22322	weather cover	6	1
+802255	chair desk	6	6
+391017	parent console	6	4
+964022	piddle pad	6	3
+112091	fireplace guard	6	3
+860768	canteen	6	0
+249081	sorting set	6	5
+114253	art desk	6	6
+776999	sunscreen spray	5	4
+931858	window guard	5	2
+260523	silicone feeder	5	4
+316892	column protector	5	0
+316894	wooden rocker	5	5
+552631	ice pack	5	5
+807450	soccer	5	3
+99427	play center	5	4
+522157	charm	5	5
+881376	food grinder	5	1
+502631	action figure	5	5
+763878	nail clippers	5	3
+747436	infant sleeper	5	4
+640920	trim blanket	5	0
+899877	pelican	5	0
+130897	barn	5	4
+993990	liquid holster	5	5
+853216	abacu	5	4
+195233	switch plate cover	5	5
+187411	moisturizer	5	5
+272811	shovel	5	5
+993804	hamper set	5	5
+962060	album	5	4
+644210	stove guard	5	3
+208156	bather	5	4
+270428	prenatal sound delivery system	5	5
+303757	odor remover	5	5
+254292	bin set	5	5
+726407	diaper sack	5	5
+971907	sprinkler	5	4
+218088	pad set	5	3
+707282	crib conversion kit	5	5
+652731	massage cream	5	3
+980291	blender	5	5
+895502	hauler	5	5
+671029	faucetextender	5	5
+267911	appliance lok	5	1
+941101	sticker book	5	5
+414732	carry case	5	5
+145716	movie	5	5
+88849	formula dispenser snack cup	5	2
+957162	taffy	5	5
+756036	alarm clock	5	3
+352783	die	5	4
+504736	domino	5	3
+213251	kickmat	5	5
+505601	bottle keeper	5	1
+60059	cosey toe	5	0
+244433	hot cold pack	5	5
+820674	pediatric drink	5	5
+762377	wrapper	5	5
+419606	dream lite	5	5
+250131	soaker	5	2
+416926	sili squeeze	5	5
+652791	baby walker	5	2
+205047	diaper champ	5	5
+831557	nursing bra pad	5	5
+615418	room divider	5	5
+902729	crawl tunnel	5	5
+306130	bento	5	5
+911608	slumber bear	5	5
+151028	ladder	5	2
+53042	tanksuit	5	3
+665398	tile cleaner	5	5
+342769	formula mixer	5	1
+564931	window stop	5	2
+624330	calamari	5	4
+38932	wall shelf	5	4
+450700	nibbler	5	3
+493205	octonaut	5	5
+358216	cheetah	5	3
+903164	grip latch	5	2
+759251	coloring pad	5	5
+373033	baby crib	5	2
+10677	childproofing kit	5	2
+674586	spider-man	5	5
+622214	edgeguard	5	5
+267433	activity jumper	5	5
+79911	linen	5	2
+919057	wipeswarmer	5	5
+141151	plush slipcover	5	5
+196602	fashion kit	5	5
+280622	steamer	5	5
+627289	lamp and shade	5	5
+538107	sleeping sack	5	5
+408710	lap pad	5	4
+13033	cord wind up	5	4
+656135	snack bag set	5	5
+897880	stacking toy	5	3
+458038	snack box	5	5
+518334	foam tile	5	5
+436131	bandage	5	5
+591118	flexi-loop lock	5	1
+147269	bath letter	5	1
+316358	aspirator	5	4
+331672	minion	5	5
+595798	bath kneeler	5	5
+520574	car mirror	5	5
+887431	wall hook	5	5
+716330	flip stool	4	4
+572693	handprint kit	4	4
+292393	key chain	4	3
+377596	cuddler	4	4
+250606	healing ointment	4	4
+315271	booster chair	4	4
+396277	mug	4	0
+678406	dry erase	4	4
+645041	baking set	4	4
+167868	jelly	4	4
+930306	rabbit	4	3
+966439	slipper	4	4
+772609	squirtee	4	4
+48426	cool sipper	4	4
+337785	musical gym	4	4
+313088	playground	4	4
+548307	visor	4	4
+383572	paper roll	4	2
+933011	stack block	4	3
+874008	clothes hanger	4	3
+278288	play yard sheet	4	2
+914997	candy stick	4	4
+326353	sampler set	4	0
+24549	railnet	4	3
+271773	secure a lock	4	3
+946265	magnetic letter	4	4
+873393	niplette	4	1
+867166	breast shell	4	3
+409563	clay	4	2
+964443	mini bed	4	4
+913997	shawl	4	1
+685165	freshener	4	4
+508481	tea party set	4	3
+696428	carousel	4	3
+551787	slicer	4	2
+999554	bulb	4	4
+584849	gownie	4	4
+948067	pacifier pocket	4	4
+223800	bath seat	4	2
+689119	cough syrup	4	4
+907340	potty hook	4	2
+4345	headband set	4	4
+145964	portable changing pad	4	1
+957172	microphone	4	4
+744280	storage system	4	3
+233888	photo card	4	2
+905321	art table	4	4
+614925	stroller lock	4	1
+732005	elbow guard	4	0
+592045	boosterpod	4	2
+335644	lantern	4	1
+865533	winter jacket	4	4
+450148	pear pouch	4	4
+898139	home gift set	4	4
+520715	glitter	4	4
+680040	baby shusher	4	2
+511079	aroma diffuser	4	4
+61260	dusting powder	4	4
+165203	doodle bear	4	4
+722058	dryer sheet	4	3
+929665	squeeze station	4	1
+677646	sunblock stick	4	4
+964144	saline spray	4	3
+211194	moisture cream	4	3
+718468	sterilizing system	4	1
+15156	drum set	4	2
+538233	travel bassinet	4	3
+955844	jump rope	4	2
+87719	geometric stacker	4	3
+862756	bollard cover	4	0
+28619	zoomer	4	4
+599173	rainbow stacker	4	3
+908998	baby bedding	4	0
+307517	ink pad	4	2
+176706	solar system	4	3
+148644	refrigerator	4	4
+793162	mailbox	4	3
+555799	fitness kit	4	2
+907394	book stand	4	2
+103874	pivot latch	4	1
+6716	trouser	4	4
+603998	cargo pod	4	4
+260903	vaporizer	4	4
+972563	clog	4	4
+45372	screen protector	4	1
+818004	play tunnel	4	4
+539414	tumbling mat	4	1
+189846	couch	4	2
+229915	table topper	4	4
+855453	storage basket	4	3
+627169	rollercoaster	4	3
+666960	rockaroo	4	3
+845630	drape	4	4
+568570	shoe sizer	4	4
+739152	washpod	4	4
+606144	seatorganizer	4	4
+766520	rainboot	4	4
+478056	raincoat	4	4
+263735	eurobath	4	2
+171347	maternity support	4	3
+359847	guard post	4	0
+672420	gate adaptor	4	1
+581256	cleanser	4	4
+700263	bust	4	4
+535193	pirate ship	4	2
+53817	security harness	4	3
+14293	swimtrainer	4	1
+333493	jogger belly bar	4	4
+239645	nutritional shake	4	4
+39300	nursery center	4	4
+273695	standard kit	4	3
+474685	camisole	4	4
+606050	flatware set	4	1
+247028	peel and stick mirror art	4	4
+249709	dishwasherbasket	4	4
+39431	shape puzzleation	4	4
+286418	serum	4	2
+645814	farm animal	4	3
+637227	insect repellent	4	4
+600058	trailer	4	4
+939445	swing + rocker	4	4
+695982	sink	4	3
+214913	stamp set	4	4
+417103	feeding pillow	4	4
+879748	cornerguard	4	4
+664406	wristband	4	4
+744554	butt powder	4	1
+42629	transition cup	4	4
+513732	pan	4	2
+446726	toothbrush set	4	3
+720512	jersey	4	3
+756391	doll cradle	4	4
+370639	clothes tree	4	4
+785439	capsule	4	4
+318606	railway	3	3
+649510	dryingstation	3	3
+100388	cash register	3	3
+794994	end table	3	1
+903523	cover set	3	0
+494637	bedskirt	3	2
+317259	body butter	3	1
+377129	book rack	3	3
+434369	extension panel kit	3	3
+825483	unbelievabowl set	3	3
+670733	peacoat	3	2
+292417	postpartum support	3	3
+372422	toddler sippy	3	3
+245816	poncho	3	3
+392294	tshirt	3	0
+973393	babywear set	3	0
+878262	camera set	3	0
+972289	windbreaker	3	3
+198792	plant	3	2
+350494	footie pant	3	3
+757628	baby wrap	3	0
+965840	loafer	3	3
+219450	side snap shirt	3	3
+16019	finger mitt	3	1
+605756	firm spout	3	3
+846727	nail clipper set	3	2
+766122	pillow protector	3	3
+672921	waste basket	3	3
+574731	take along tune	3	1
+1771	belly butter	3	3
+574503	cutter	3	3
+91197	nursery rhyme	3	1
+638467	bunny plush	3	2
+733085	legwarmer	3	3
+556984	fridge guard	3	0
+320199	water wheel	3	1
+243650	slushee maker	3	3
+787049	wash shampoo	3	2
+997100	tv stand	3	3
+36560	bullseye	3	2
+996679	tuxedo	3	2
+405918	replacement kit	3	2
+764442	watercolor	3	3
+195474	gas relief drop	3	2
+889491	team umizoomi	3	3
+15328	sandbox	3	3
+545864	foaming wash	3	3
+603570	biketard	3	3
+877288	pouf	3	3
+678205	stud	3	0
+937482	mat set	3	0
+587318	finger pinch guard	3	1
+372228	tin set	3	3
+618228	neck reservoir	3	1
+665989	shirt and short set	3	3
+987307	safety bracket	3	3
+573887	len filter	3	3
+637026	casting kit	3	3
+311045	calculator	3	3
+576475	corner post	3	1
+318659	radio	3	2
+989145	magnetic number	3	1
+292527	food processor	3	2
+550333	super towel	3	3
+56884	belly cast decorating kit	3	3
+658919	golden retriever	3	3
+602057	view monitor	3	0
+456700	humidifier filter	3	3
+312107	bowling	3	2
+922857	manicure set	3	1
+950464	pull-on pant	3	2
+803837	tatamia	3	3
+228658	diaper genie	3	3
+795401	nipple balm	3	3
+878109	electronic	3	1
+532150	karaoke	3	3
+348532	tattoo	3	3
+214499	float	3	3
+190356	bed set	3	3
+146708	grooming set	3	1
+325721	label	3	3
+735601	deodorizer	3	2
+30036	computer	3	2
+147614	sealing disk	3	1
+803704	better builder	3	3
+673236	corner prot	3	0
+148016	bath towel set	3	3
+746460	dietary supplement	3	2
+24047	snack pod	3	1
+929781	tool set	3	3
+438785	fire rescue set	3	3
+478177	arm band	3	3
+524368	shopping basket	3	3
+13208	sculpture	3	1
+278561	hearthgate	3	2
+542951	stork	3	3
+134481	bilibo	3	1
+142097	snugseat	3	2
+66264	balance board	3	1
+283713	activity block	3	3
+159537	sippee cup	3	3
+225715	play cart	3	3
+95284	soccer ball	3	1
+862960	balancebike	3	3
+307618	home safety kit	3	1
+73202	plasmacar	3	3
+958852	learning laptop	3	3
+436302	magnetic dress up	3	3
+950099	bobblehead	3	3
+9408	octotune	3	2
+202263	mosaic	3	2
+34864	telephone	3	1
+902132	faucet	3	0
+96546	bug canopy	3	2
+795986	bench seat	3	1
+575783	babypote	3	2
+929059	rock a stack	3	1
+628373	baby food mill	3	1
+909023	cargo basket	3	3
+694033	rollershade	3	3
+291580	baby spoon	3	2
+530459	skeleton	3	0
+169251	bath toy set	3	2
+111392	bath towel	3	2
+857034	target	3	0
+926888	husky	3	2
+420575	air cleaning system	3	3
+494071	art set	3	2
+285011	deck guard	3	1
+855803	anton bear	3	3
+692826	paint brush	3	3
+716965	snowman	3	1
+443244	angle adjuster	3	3
+981884	top and legging set	3	3
+378293	stunt pet	3	3
+764378	bug spray	3	2
+218365	chanukah set	3	3
+546265	chopper and steamer	3	2
+877853	baby float	3	3
+568770	dining set	3	0
+96765	menorah	3	3
+64261	handbook	3	3
+236287	diaper depot	3	2
+217857	diaper kit	3	3
+99673	wall organizer	3	3
+977844	side-tie kimono	3	3
+714199	world map	3	0
+465444	building set	3	0
+571414	swim vest	3	3
+872498	floor easel	3	3
+547582	porringer	3	0
+438402	multiportion	3	3
+929153	microscope	3	1
+119882	toddler cutlery set	3	2
+249417	belly balm	3	1
+967304	k tancloth	3	3
+290068	wall protector	3	0
+710752	travel kit	3	2
+574694	saddlebag	3	3
+417328	drawer storage	3	3
+256576	health care kit	3	2
+747783	fireplaceguard	3	3
+213301	wrapsack set	3	0
+398826	fun sip	3	0
+404546	toolbox	3	2
+482821	cookie monster	3	3
+310160	toddler gift set	3	3
+185452	toaster set	3	3
+451003	dressing station	3	3
+829410	cupholder	3	3
+891332	letter link	3	2
+977041	launcher	3	3
+919786	diaper pack	3	1
+136053	nursing bottle	3	0
+331099	car wash	3	3
+974554	heater	3	3
+461393	tooth tissue	3	3
+935561	bathrobe	3	3
+994390	scissor	2	2
+566214	lid-lok	2	2
+682114	giftset	2	2
+742663	pool toy	2	2
+277863	healing balm	2	2
+623566	banana pouch	2	2
+324434	car seat toy	2	0
+875484	stove	2	1
+84690	mixer	2	2
+85054	night table	2	2
+974733	warmy	2	0
+172949	freshner	2	2
+495898	throat drop	2	2
+161106	moisture lotion	2	2
+693845	cd player	2	2
+425513	cigar box	2	2
+664556	areola stimulator	2	0
+852631	memory match clam	2	1
+905566	hockey	2	1
+325334	ladderback chair	2	2
+168293	brush and comb set	2	2
+933025	tooth wipe	2	1
+95780	shirt set	2	0
+210543	stove knob	2	2
+665895	undy	2	2
+824998	comfort leg	2	2
+840630	avalon chair	2	2
+223542	play kitchen	2	2
+763529	microwave	2	1
+845032	jogging kit	2	2
+514834	bowling set	2	1
+321775	milkshake	2	2
+363264	therapy creme	2	1
+622622	babybjorn cup	2	2
+33753	disney pixar brave	2	2
+162936	leg warmer	2	2
+103387	dispensing spoon	2	1
+69401	temperature tester	2	1
+323627	driveway safety sign	2	1
+185703	onepiece	2	2
+513453	winkel	2	2
+304995	safety tub	2	1
+966181	active snacker	2	2
+514024	float sipper	2	0
+387870	googalop	2	2
+564782	kaleidoscope	2	1
+748726	musical drum	2	2
+218539	night balm	2	2
+160604	illumination station	2	1
+613975	painting kit	2	2
+717221	tizoo	2	2
+975100	polar bear	2	2
+267678	recipe book	2	0
+725660	headwrap set	2	2
+764285	ride on toy	2	2
+491658	pacifier rinser	2	1
+773428	cold cough syrup	2	2
+12023	cursive alphabet	2	2
+524446	vegetable glycerin	2	0
+117353	loom	2	1
+758198	firefly frog	2	2
+746989	liquid powder	2	2
+763065	ibuprofen suspension	2	2
+211696	diaper sprayer	2	2
+758997	apple pouch	2	2
+472672	belly cast kit	2	2
+295087	child harness	2	1
+288509	train table	2	2
+507705	tag along chime	2	1
+256704	boudoir	2	2
+508393	hang toy	2	2
+600648	formula powder	2	2
+263042	imprint keepsake box	2	2
+551694	vase	2	0
+721995	buffalo	2	1
+923507	cream wash	2	2
+780710	grill	2	0
+605021	mini golf	2	1
+105408	travel harness	2	2
+367339	breastfeeding companion	2	2
+474193	mealtime kit	2	2
+787835	eating set	2	2
+1482	stylu	2	0
+157219	child-proofing kit	2	2
+237305	tylenol	2	2
+25692	learning game	2	1
+28097	eggspert	2	0
+950873	duffle	2	2
+389183	sweater set	2	2
+812699	trailer set	2	0
+169933	tumbling chicken	2	0
+16753	activity garden	2	2
+27039	junction set	2	2
+693172	toyhammock	2	2
+11462	cool pack	2	2
+923402	first aid	2	2
+739804	activity stacker	2	2
+453950	suitcase encasement	2	2
+182368	ring set	2	1
+960123	bath storage	2	2
+649959	safety swab	2	2
+133835	depot	2	2
+619180	side snap t	2	2
+878328	activity arch	2	1
+207214	cougar	2	2
+109784	peppa pig	2	2
+813627	yellow duck	2	2
+888724	food warmer	2	2
+672363	wrist strap	2	2
+519001	binocular	2	2
+485428	embrace base	2	1
+92947	anti-bug balm	2	2
+824419	reverse alert	2	1
+14934	knee protector	2	1
+972545	charger	2	2
+246577	lighting	2	0
+16784	percussion	2	2
+172441	puzzle set	2	2
+850659	healing salve	2	1
+220121	toothwipe	2	2
+845242	tray cabinet	2	2
+338698	bed skirt	2	1
+798434	closure strip	2	0
+761465	chalk	2	2
+90995	bath sponge cushion	2	2
+899892	stack chair	2	0
+365419	shake mix	2	1
+282768	kickball	2	2
+276108	teather	2	0
+310254	detangler	2	2
+876081	toy scoop	2	1
+203688	organic snack	2	0
+49608	handwash	2	2
+571043	tooth care set	2	2
+900145	reading station	2	0
+519852	uvc bulb	2	2
+430422	onezie	2	2
+84192	fun tube	2	2
+704868	travel usa map	2	1
+364277	after sun balm	2	2
+395086	teen bedding	2	2
+184039	face balm	2	2
+183343	dropper stopper	2	0
+129331	cuddle cradle	2	2
+727817	decoration	2	2
+382483	easel pad	2	2
+907773	alphapup	2	2
+852134	trousers	2	2
+842774	watering can	2	2
+712569	rice rusk	2	2
+527274	texthook	2	2
+465602	posh pouch	2	2
+615554	bike trailer	2	0
+875629	stroller console	2	1
+547572	bottlewarmer	2	2
+520867	step tub	2	2
+153245	paper pad	2	2
+762216	wheelbarrow	2	1
+809127	disney plane	2	2
+459578	birdhouse	2	2
+499202	changing pad set	2	2
+503627	sweatpant	2	2
+289081	flutterbug	2	1
+651054	balance beam	2	0
+734032	hearth kusion	2	0
+955559	dishwasher pod	2	2
+606577	hulk	2	2
+418879	stroller seat adapter	2	2
+805720	prenatal listening system	2	1
+110656	roadster	2	1
+15428	twin bedding	2	2
+456136	busy tot	2	2
+585606	bug screen	2	2
+183937	bababall	2	2
+981512	sleep balm	2	2
+813127	top and legging	2	2
+457037	cell phone	2	2
+748565	life jacket	2	2
+543801	sleeper seat	2	2
+452801	apple maze	2	1
+501780	doodler	2	2
+345327	branch	2	2
+990772	laundry booster pod	2	2
+462903	snuggly pj	2	0
+601721	rice cooker	2	1
+176167	toddler board	2	2
+682168	ducki	2	2
+57485	air circulator	2	2
+877459	oral suspension	2	2
+518705	crawl mesh tunnel	2	2
+52610	camera battery	2	1
+20790	ferri wheel	2	2
+295289	chinook	2	2
+540957	gown set	2	2
+264274	tot collage	2	2
+626806	spinbrush	2	2
+432016	garland	2	0
+698917	mask	2	2
+991978	gift card	2	1
+332654	play scene	2	1
+366802	lollipop	2	1
+881240	sport center	2	2
+733124	sketch	2	2
+376026	triple stroller	2	2
+942198	foam play	2	0
+732723	foam playmat	2	2
+984119	petroleum jelly	2	1
+829050	lcd	2	1
+951615	lovenest	2	1
+636029	action pup	2	2
+48414	deep blue rub	2	2
+618530	shelter	2	2
+984582	lacing card	2	2
+109351	classic t	2	2
+698453	money bank	2	2
+54910	wonder wheel	2	2
+232601	medical kit	2	2
+112996	teether ring	2	2
+771113	skincare	2	2
+346241	non talc powder	2	1
+39341	soap dispenser	2	2
+774412	foot balm	2	2
+108174	ear muff	2	2
+476984	valet	2	2
+587187	bead kit	2	2
+562028	furniture set	2	1
+590469	play zone	2	0
+810269	strawberry banana pouch	2	2
+330890	baby talc powder	2	0
+945119	driveway safety net	2	1
+297557	recorder	2	1
+572479	castor oil	2	0
+269194	lunchbox	2	2
+664985	sandboat	2	2
+169720	infant drop	2	2
+845388	cartridge	2	2
+790814	tugboat	2	2
+452103	cleansing fluid	2	1
+526078	shampoo rinser faucet extender	2	0
+457360	vacuum	2	2
+680751	my pal	2	2
+873544	kimono set	2	2
+423480	band set	2	2
+402917	nursing light	2	1
+974028	high chair frame	2	2
+192714	hip abductor	2	0
+952848	barrier railing	2	0
+943312	refrigerator guard	2	2
+693623	toy car	2	2
+70608	first fishbowl	2	1
+16121	gymini developlace	2	2
+847734	bath boat	2	2
+749797	kneeler	2	2
+860596	cleansing cloth	2	2
+433421	viewmirror	2	2
+822330	sound soother	2	2
+590267	track set	2	2
+793243	clutch	2	2
+938642	note	2	2
+136284	blaster	2	2
+32680	cookie set	2	2
+75953	starter pack	2	0
+372439	sleep wedge	2	2
+544681	dreampod	2	2
+679894	paci pod	2	2
+661596	plush bear	2	2
+487979	oral care set	2	1
+574276	paci clip	2	0
+243686	moccasin	2	1
+218786	swim goggle	2	2
+502111	travel booster	2	2
+97944	magnetibook	2	2
+217321	firehouse	2	2
+661827	wreath	2	2
+731830	reptile	2	2
+716021	corn popper	2	1
+723885	high chair cleaner	1	1
+76965	flip carrier	1	1
+748532	vent reservoir	1	1
+714386	spinner	1	0
+422882	fingerpaint	1	0
+961366	back rest	1	1
+671872	butternut squash apple pouch	1	1
+168950	waist extender	1	1
+74835	sandwich making set	1	1
+816385	softener sheet	1	1
+5983	magnetic transportation maze	1	1
+772296	washclothe	1	1
+112429	lateral support	1	1
+840624	phone pod	1	1
+964077	preemie prefold	1	1
+892417	play space corral	1	1
+397124	lacing number	1	1
+157380	bottle soap	1	1
+479782	dress and panty set	1	1
+179527	tile set	1	1
+792840	bike seat	1	0
+971679	chess piece	1	1
+416184	temperature food probe	1	1
+109287	gym bag	1	1
+50708	blnkt	1	1
+749687	tumbling tube	1	1
+476962	gcloth insert	1	1
+262352	magnatab	1	1
+992816	label band	1	1
+907434	date content label	1	0
+366943	scarmassage	1	0
+629929	ice cream maker	1	1
+649521	doll stroller	1	0
+991394	measuring rod	1	0
+465182	platemat	1	1
+295059	foam bath	1	1
+16177	padding	1	0
+353856	sew cool machine	1	1
+260460	scraptopu	1	1
+241533	scoppi	1	1
+617519	rolling art center	1	1
+309207	chopper	1	0
+942765	armchair	1	1
+196935	earache drop	1	1
+323731	musical phone	1	1
+371521	ipad	1	0
+278528	travel nest	1	1
+943361	pathfinder panel	1	1
+102434	playring	1	0
+86470	strainer	1	0
+539002	shower arm	1	1
+346999	steam inhaler	1	1
+272615	magnet express	1	1
+758841	smart stacker	1	0
+58206	sword	1	1
+297824	muslin collection	1	1
+543265	pop up tent	1	1
+516743	hardware kit	1	0
+924505	gang box	1	0
+766908	car seat transporter	1	1
+876597	digestive blend	1	1
+242135	food system	1	1
+727827	seat kit	1	1
+533273	paper towel	1	1
+91671	sippin spoon	1	1
+495375	happening hollow	1	0
+792858	toddler sink	1	1
+165114	clothing	1	1
+843084	soothing water	1	1
+788611	billy fun wheel	1	1
+984957	saline mist	1	1
+138961	diaper insert	1	1
+221418	toilet training kit	1	1
+556199	car carrier	1	1
+151118	bongo	1	1
+852199	napmat	1	1
+961233	construction kit	1	1
+16011	peach pear pouch	1	1
+492659	sip smile cup	1	0
+90802	laundry soap	1	1
+622968	sound duck	1	1
+951419	spatula	1	1
+542975	toddler stove	1	1
+250399	robe set	1	1
+41962	saline wipe	1	1
+577920	learning system	1	0
+12245	motorcycle	1	0
+904795	face cream	1	1
+976073	activity pack	1	0
+996176	secureseat	1	1
+557732	card game	1	1
+274296	hydration cage	1	1
+609265	fantasygown	1	1
+875628	squeeze squirt pal	1	1
+936779	screen room	1	0
+917249	jumper set	1	1
+58306	bull	1	1
+270953	end post	1	0
+554612	advil	1	1
+863117	activity box	1	1
+830507	stoveguard	1	1
+952153	technique kit	1	1
+239109	hydrating spray	1	1
+212748	diaper detergent	1	1
+300167	corner connector	1	0
+698960	squeeze n sip	1	0
+253900	wooden number	1	1
+736312	cosybag	1	1
+445738	pound-a-peg	1	1
+750194	baby monitoring system	1	0
+676614	mega bundle	1	1
+984983	econobum full kit	1	1
+663826	cuticle care	1	0
+466881	remote control	1	1
+398860	hoody	1	1
+107853	seesaw	1	0
+278482	side snap kimono	1	1
+544999	bathtime pal	1	0
+231053	puzzleation	1	1
+262466	antihistamine tablet	1	1
+200115	mist spray	1	1
+716669	trim shake	1	1
+199792	mounting kit	1	0
+125721	rinse aid	1	1
+270707	rain boot	1	1
+658240	honey stick	1	1
+578612	rainbow hollow	1	0
+423418	beach toy	1	1
+80548	shirt and pant set	1	1
+20910	musical instrument	1	1
+313571	wood sign	1	1
+297801	hychair	1	1
+653325	magnetic skeleton maze	1	1
+865047	arcade game	1	1
+452624	deet free spray	1	1
+435037	fruit cereal bar	1	0
+37983	valve and straw	1	1
+598658	tire pump	1	1
+302191	sweet pop	1	1
+17988	geo tunnel	1	1
+860453	car adapter	1	1
+644692	gund fuzzy	1	1
+681391	peanut chew	1	1
+516235	baby bundler	1	1
+154935	lego	1	1
+111978	shabbat set	1	1
+950649	baby food dispensing	1	1
+184491	apple prune pouch	1	1
+452180	shea butter	1	1
+103341	base ten set	1	0
+200964	amusement park	1	1
+81575	jogger carseat adapter	1	1
+966720	teething swab	1	1
+982869	orangutan	1	1
+253141	grocery cart	1	1
+777311	cookie jar	1	1
+665244	ukulele	1	1
+325271	nose and throat kit	1	1
+339176	apparel	1	0
+464995	maternity brief	1	1
+376370	invigorating blend	1	1
+26064	drain plug	1	1
+80151	video moniter	1	0
+947149	lego ninjago	1	0
+85277	gwipe	1	1
+483238	treasure box	1	1
+337306	channel connector	1	0
+157253	skwinkle	1	1
+475262	caster kit	1	0
+435986	talking ball	1	0
+63534	ballo bucket	1	1
+820245	baby utensil	1	1
+743151	organizer bag	1	1
+78713	cookware set	1	1
+834839	saline	1	1
+168952	caddy bundle	1	0
+113998	bean refill	1	1
+573311	hand bell	1	1
+782106	baby rocker	1	1
+561223	nail buffing set	1	1
+352788	chalkboard	1	1
+42972	feeding center	1	1
+111017	sinker	1	1
+106982	bottom cleaner	1	1
+316128	salt pack	1	0
+433916	boppy sipcover	1	1
+359978	face wash	1	1
+976659	green frog	1	1
+337788	flipper	1	1
+606868	fixture	1	1
+976333	learning kit	1	1
+25142	parent pack	1	1
+968772	diaper creme	1	0
+233889	towel warmer	1	1
+464263	tummy band	1	1
+172326	positioning insert	1	1
+874234	gorilla	1	1
+16377	robotic	1	0
+806643	light stroller	1	0
+387533	caddy hook	1	1
+464651	tape dispenser	1	1
+534799	pote	1	1
+472108	croquet set	1	0
+391783	disney pixar monster university	1	1
+917119	jogger glider board	1	1
+506985	third trimester tea	1	1
+271364	learning tablet	1	1
+964608	extender garment	1	1
+341026	loveseat	1	1
+109777	night light - duck	1	1
+37234	gnome	1	1
+420119	smoothie set	1	1
+265328	edge finder	1	0
+39549	foodorganizer	1	1
+941010	alcohol detector strip	1	1
+864778	cookie kit	1	1
+95242	talking plush	1	1
+639395	magnifying glass	1	1
+333949	drool key	1	1
+392866	ball pit	1	1
+86070	led nightlight	1	1
+443031	dish soap refill	1	1
+9921	pluffy	1	1
+683241	butterfly net	1	0
+309388	study desk	1	1
+999042	shade cover	1	1
+545591	sterilizer dryer	1	1
+972837	pastel coffee set	1	1
+89733	lace and trace	1	1
+937148	eczema care cream	1	1
+880085	software	1	0
+90936	tzedakah box	1	1
+852806	magnetic turtle maze	1	1
+165519	tableware bundle	1	1
+99573	hand cream	1	0
+884188	shooter	1	1
+669477	probiotic drop	1	1
+462663	freestyle tubing	1	1
+190223	portion bag	1	1
+465823	food group set	1	1
+775610	rocking crocodile	1	1
+902597	bistro box	1	1
+675580	wash mitt	1	0
+583425	vent system	1	1
+596824	bop bag	1	0
+796867	tower fan	1	1
+979940	one step gate	1	1
+545655	cleaning cloth	1	1
+788935	bodysuit and red pant	1	1
+269504	sand water center	1	0
+326980	table liner	1	0
+283168	filter cartridge	1	1
+194734	waterfall rinser	1	1
+55447	bathhammock	1	1
+740703	sanitizer	1	0
+139770	towel set	1	1
+898714	nursing system	1	1
+437529	wean machine	1	1
+551336	playland	1	0
+798197	canned food	1	1
+732975	bocce set	1	0
+603526	proctecting powder	1	1
+180443	ligth panda	1	1
+224548	lotion spray sunblock	1	1
+224158	e copter	1	1
+128401	pregnancy planner	1	1
+733289	antibiotic	1	1
+241350	kindermat	1	0
+411092	backrest	1	1
+969712	metro gateway	1	1
+510040	boom box	1	1
+453849	finger printing art set	1	1
+904872	alphabet soup	1	1
+16793	kangaroo	1	0
+598600	puzzle toy	1	1
+265186	milk chocolate coin	1	1
+558219	octoplush	1	1
+781922	green salve	1	1
+790684	table cleaner	1	1
+233208	trash bag	1	1
+42961	bendy ball	1	1
+48242	basketsystem	1	1
+931605	mini dumper	1	1
+202794	jewelry	1	0
+8932	golf	1	1
+90811	guitar toy	1	1
+992314	accent	1	1
+971571	newborn kit	1	1
+728366	bioliner	1	1
+529471	tiara	1	1
+330363	cuddle square	1	1
+57747	eczema relief cream	1	1
+663625	face hand cloth	1	1
+706668	hair detangler spray	1	1
+495265	swingset	1	1
+103307	food masher	1	1
+390091	restraint base	1	1
+225710	cosycushion	1	1
+372810	belly salve	1	1
+318754	snowsuit	1	1
+738889	monitor camera	1	1
+646027	cage bell	1	1
+831542	wire guard	1	0
+193288	majestic mansion	1	1
+697119	mesh bag	1	1
+88226	falcon	1	1
+19847	car set	1	1
+187829	cotter pin	1	0
+153795	cupcake stand	1	1
+922301	sport car	1	0
+752036	pyramid of play	1	1
+614911	doctor kit	1	1
+445370	shoe organizer	1	1
+78200	wardrobe	1	0
+235854	excavator	1	1
+371939	discovery kit	1	1
+83690	baby one piece	1	1
+482430	finger pinch preventer	1	1
+608982	sorting ring	1	1
+893546	airbed	1	1
+699185	soy candle	1	1
+774187	cd soundtrack	1	1
+77842	window sunshade	1	1
+620328	cosycover	1	1
+466974	sunshade kit	1	1
+188210	silicone teat	1	1
+507790	splasher	1	0
+929273	barbie	1	1
+500964	bolster	1	1
+922262	tea sampler	1	1
+922267	shoe rack	1	1
+902963	kimono bundler	1	1
+830138	rocking alligator	1	1
+19851	gas and colic relief	1	1
+670000	story tree	1	1
+65590	play food	1	1
+88125	gbaby bundle	1	1
+501899	doll bed	1	1
+626543	nursery novel	1	1
+553881	harmonica	1	1
+328234	colored pencil	1	1
+75778	conditioning mist	1	1
+199624	pea apple pouch	1	1
+367075	heartburn tea	1	1
+975745	teething pain medicine	1	1
+236756	electrolyte fluid	1	1
+551954	magnetic money	1	1
+44636	funpack harness	1	1
+884426	bath chair	1	0
+793104	bunjo chair	1	1
+788876	toilet lid lock	1	1
+849412	mini loader	1	1
+251920	speaker	1	1
+510584	healthcare groom kit	1	1
+257557	magnetic circle express	1	1
+844584	magic brix	1	1
+640575	magnetigrip	1	1
+798860	balance grounding blend	1	1
+606566	talking farm	1	1
+394910	adhesive strip	1	1
+15509	funpod	1	1
+182460	pretend food	1	1
+226358	ballcap	1	1
+855332	pencil	1	0
+826311	scalp spray	1	1
+228183	blow pop	1	1
+779	desktop	1	1
+840917	sippy tumbler	1	1
+335298	twister panel	1	1
+412568	crawl-along snail	1	1
+648492	spa kit	1	1
+497684	bath basket	1	1
+697481	blacklight	1	1
+81688	ink	1	1
+888788	nursey	1	1
+967646	locking disc	1	0
+745585	cot fitted sheet	1	0
+378512	banister guard	1	1
+839512	nighttime wash	1	1
+555582	wooden alphabet	1	1
+937938	flosser	1	1
+269556	infantometer	1	0
+294500	tea sampler box	1	1
+154232	graphic t	1	1
+549736	mango banana pouch	1	1
+810471	havdalah set	1	1
+341782	sorting egg	1	1
+518779	pool cover	1	0
+895595	column guard	1	0
+176758	pendant light	1	0
+113641	carrot pear pouch	1	1
+230469	mosquito coast	1	1
+854222	toy fire truck	1	1
+406888	snoring pig	1	1
+160293	carabiner	1	0
+690688	see-saw	1	1
+210353	doll house	1	1
+863175	rocking harley	1	1
+639084	wall chart	1	1
+332715	nesting pal	1	1
+133145	eczema wash	1	1
+149561	geosolid	1	1
+252076	apple crisp	1	1
+964232	kickboard	1	1
+971183	sack fleece	1	0
+29529	fire station set	1	1
+37135	nursing balm	1	1
+765302	vehichle	1	1
+272089	ointment tube	1	0
+25625	activity attacher	1	1
+245504	kid keeper	1	0
+296045	mega blok	1	0
+222445	lunch chiller	1	0
+829303	apple banana pouch	1	1
+571798	drawer liner	1	1
+348788	inhaler	1	0
+519882	scoop organizer	1	1
+192729	copter	1	1
+401271	pantyhose	1	1
+138684	carrier pod	1	1
+721580	rhumba tight	1	1
+124966	glycerin suppository	1	1
+195325	controller	1	1
+911658	travel system netting	1	1
+564243	checker piece	1	1
+526487	dehumidifying dry egg	1	1
+329276	playboard	1	1
+613518	rinse bath pitcher	1	1
+204509	sagebrush farm	1	1
+15195	lil snoopy	1	1
+862501	clock radio	1	1
+223984	bundle outback	1	1
+107180	diaper creamy	1	1
+827640	art studio	1	1
+216346	heart listener	1	1
+360427	oil gel	1	1
+47885	scribble and write	1	1
+475765	bedtime book	1	1
+525009	rolling backpack	1	0
+860964	cookware	1	0
+785279	comb set	1	1
+922754	refill roll	1	1
+207636	color mixer	1	1
+848876	spare membrane	1	1
+206102	respiratory blend	1	1
+580668	play table chair	1	1
+190910	bingo	1	1
+145407	si puppy	1	1
+616555	drying mat	1	1
+680759	bath block	1	1
+612241	pool game	1	0
+75362	bottle wipe	1	1
+191240	dress up rack	1	1
+813009	massage blend	1	1
+253229	sunblock lotion	1	1
+873670	string	1	1
+69402	knit cape	1	0
+90686	wetbag	1	1
+461923	t shirt set	1	1
+200744	wolf	1	0
+484605	magnifier	1	0
+586395	wardrobe unit	1	1
+125512	pooligan	1	1
+836202	aquastick	1	1
+300012	kringelring	1	1
+290284	toy cleaner	1	1
+54934	hot rod	1	1
+36519	edge kusion	1	0
+636435	zigolo	1	1
+829704	rocking raffy	1	1
+528841	wobble cody	1	1
+102137	safetytub	1	0
+500781	tubbly bubbly	1	1
+571333	sample kit	1	1
+949689	grip water	1	0
+918793	safety value kit	1	0
+849999	fruit pouch	1	1
+231534	spot remover	1	1
+888806	mail box	1	1
+678931	oatmeal wash	1	1
+831891	steam sterilzer	1	1
+339557	food dispenser	1	0
+228428	armband	1	1
+921425	deterrent	1	1
+585268	golf cart	1	1
+125568	twirltable	1	1
+258673	purified water	1	0
+443289	suspender	1	1
+127861	cat toy	1	1
+370939	hemp prefold	1	1
+330286	baby travel collection	1	1
+687402	ruler	1	1
+616367	dream soother	1	1
+859497	disposable liner	1	1
+616368	baby frame	1	1
+191273	rocking caterpillar	1	1
+430602	family physician kit	1	1
+806338	natural sleep system	1	1
+357573	breastfeeding aide	1	1
+18964	facial system	1	1
+254198	infant bather	1	1
+898686	odor neutralizing spray	1	1
+920922	handbag	1	0
+582465	door knob	1	0
+223458	baby outback	1	1
+88803	broom	1	1
+490748	teething tail fish	1	0
+37036	number card	1	1
+307719	side-flex panel	1	1
+525983	baby brush	1	1
+48409	drawer set	1	1
+86577	multi powder	1	1
+158899	book shelf	1	1
+984558	food set	1	1
+760510	bunny rabbit	1	1
+846615	earring	1	0
+32843	pet travel barrier	1	1
+829804	battle rover	1	1
+451653	air purifier filter set	1	1
+503225	alarm system	1	0
+190002	moc	1	1
+314272	pencil skirt	1	1
+858023	video game	1	1

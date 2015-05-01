@@ -1,0 +1,7 @@
+#JJ-->adf
+fun	JJ
+happy	JJ
+convenient	JJ
+love	JJ
+#NN-->none
+bed	NN

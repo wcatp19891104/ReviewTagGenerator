@@ -1,0 +1,10 @@
+#JJ-->adf
+fun	JJ
+happy	JJ
+convenient	JJ
+love	JJ
+interesting	JJ
+#NN-->none
+bed	NN
+stroller	NN
+5yr	NN

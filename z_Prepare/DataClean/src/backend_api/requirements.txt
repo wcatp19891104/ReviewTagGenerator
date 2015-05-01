@@ -1,0 +1,9 @@
+CherryPy==3.6.0
+GitPython==0.3.6
+inflect==0.2.4
+ipython==2.3.1
+json2html==0.3
+ordereddict==1.1
+pysolr==3.2.0
+redis==2.10.3
+requests==2.6.0

@@ -1,0 +1,21 @@
+package com.fuhu.hadoop;
+option java_package = "com.fuhu.usagetracking.dto";
+option java_outer_classname = "GeneralUsageData";
+
+message GeneralUsagePro{
+	optional int64 capturetime = 1;
+	optional int64 uploadTime = 2;
+	optional string deviceKey = 3;
+	optional string deviceType = 4;
+	optional string androidVersion = 5;
+	optional string deviceEdition = 6;
+	optional string nabiFirmwareVersion = 7;
+	optional string clientAgentVersion = 8;
+	optional string countryCode = 9;
+	optional string lang = 10;
+	optional string ipAddress = 11;
+	optional string macAddress = 12;
+	optional string timeZone = 13;
+	optional string extra = 14;
+	optional string bodydata = 15;
+}
